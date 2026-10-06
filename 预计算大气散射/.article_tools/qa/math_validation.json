@@ -1,0 +1,143 @@
+{
+  "phase": {
+    "rayleigh_normalization": 1.0000000000000002,
+    "0.0": {
+      "normalization": 1.0000000000000002,
+      "mean_nu": -5.428506268262946e-18,
+      "analytic_mean": 0.0
+    },
+    "0.5": {
+      "normalization": 1.0000000000000044,
+      "mean_nu": 0.5666666666666716,
+      "analytic_mean": 0.5666666666666667
+    },
+    "0.8": {
+      "normalization": 1.0000000000000977,
+      "mean_nu": 0.8436363636364627,
+      "analytic_mean": 0.8436363636363637
+    },
+    "0.9": {
+      "normalization": 1.0000000000004474,
+      "mean_nu": 0.9243416370111243,
+      "analytic_mean": 0.9243416370106763
+    }
+  },
+  "transmittance_mapping": {
+    "samples": 20000,
+    "r_abs_error_m": 0.0,
+    "mu_abs_error": 3.3580693781232185e-11,
+    "endpoint_uv": [
+      0.001953125,
+      0.998046875
+    ]
+  },
+  "scattering_mu_mapping": {
+    "samples_per_half": 20000,
+    "errors": [
+      1.9147683438802687e-11,
+      4.479505655297089e-11
+    ],
+    "horizon_uv": [
+      0.00390625,
+      0.99609375
+    ]
+  },
+  "solar_mapping": {
+    "samples": 20000,
+    "mu_s_error": 2.0539125955565396e-14,
+    "A_reference": 7.868812160331448,
+    "A_gnx": 7.797259759663212
+  },
+  "gnx_solar_actual_cutoff": {
+    "6420000": {
+      "mu_cutoff": -0.4953271028037383,
+      "zenith_deg": 119.69132217797613
+    },
+    "6460000": {
+      "mu_cutoff": -0.49226006191950467,
+      "zenith_deg": 119.48923743678523
+    }
+  },
+  "direction_domain": {
+    "samples": 20000,
+    "min_gram_determinant": 4.633630368289232e-09
+  },
+  "beer_lambert": {
+    "reverse_tau_abs_error": 0.0,
+    "composition_T_abs_error": 3.229895240153269e-10,
+    "T_PQ": 0.8820511945995899
+  },
+  "trapezoid_500": {
+    "zenith": {
+      "relative_errors_R_M_O": [
+        1.811881100570279e-05,
+        0.0008051531860614239,
+        8.686111135111362e-07
+      ]
+    },
+    "horizontal": {
+      "relative_errors_R_M_O": [
+        9.41157773753992e-09,
+        1.0243138652003346e-14,
+        1.085825220671433e-05
+      ]
+    },
+    "horizon": {
+      "relative_errors_R_M_O": [
+        1.6357697599271836e-06,
+        1.0585276088027168e-05,
+        7.874050849933264e-08
+      ]
+    }
+  },
+  "finite_scattering": {
+    "direct": 8.674970025402258,
+    "subtraction": 8.674970025251762,
+    "relative_error": 1.734836013346219e-11
+  },
+  "sun_disk": {
+    "max_visible_fraction_abs_error": 0.03941221919631835,
+    "endpoint_value": [
+      0.0,
+      1.0
+    ],
+    "endpoint_derivative": [
+      0.0,
+      0.0
+    ]
+  },
+  "fp16": {
+    "10": {
+      "T": 4.5399929762484854e-05,
+      "fp16": 4.5418739318847656e-05,
+      "relative_error": 0.00041430804984074894
+    },
+    "15": {
+      "T": 3.059023205018258e-07,
+      "fp16": 2.980232238769531e-07,
+      "relative_error": 0.0257569037460951
+    },
+    "18": {
+      "T": 1.522997974471263e-08,
+      "fp16": 0.0,
+      "relative_error": 1.0
+    },
+    "20": {
+      "T": 2.061153622438558e-09,
+      "fp16": 0.0,
+      "relative_error": 1.0
+    }
+  },
+  "memory": {
+    "scattering_texture_bytes": 8388608,
+    "runtime_bytes": 16916480,
+    "peak_bytes": 42090496
+  },
+  "schedule_N5": {
+    "draw_steps": 294,
+    "min_recording_frames_at_24": 13
+  },
+  "article_current": {
+    "han_characters": 37741
+  }
+}

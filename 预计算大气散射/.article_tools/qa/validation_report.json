@@ -1,0 +1,77 @@
+{
+  "article": "预计算大气散射技术详解.md",
+  "review_date": "2026-10-06",
+  "han_characters": 37273,
+  "numbered_equations": 84,
+  "latex_expressions": 1108,
+  "latex_errors": [],
+  "svg_diagrams": 26,
+  "png_images": 35,
+  "missing_local_links": [],
+  "revised_figures": [
+    "01_spherical_geometry.png",
+    "02_direction_convention.png",
+    "03_density_profiles.png",
+    "04_phase_functions.png",
+    "05_transmittance_chain.png",
+    "06_single_scattering_path.png",
+    "07_transmittance_mapping.png",
+    "08_horizon_split.png",
+    "09_sun_mapping.png",
+    "10_valid_nu_domain.png",
+    "11_texture_packing.png",
+    "12_multiple_scattering_paths.png",
+    "13_precompute_dependencies.png",
+    "14_aerial_perspective_subtraction.png",
+    "15_shadow_segments.png",
+    "16_color_pipeline.png"
+  ],
+  "figure_text_overlaps": 0,
+  "figure_text_outside_canvas": 0,
+  "visual_review": "All original and previously redrawn diagrams were inspected in earlier revisions. Individually inspected final G-J PNGs for legibility, geometry, line/text interaction and caption consistency. KaTeX renders every article expression to HTML/MathML; MathJax renders all 84 numbered equations to SVG. Equation 75 now explicitly names the shader inverse matrix to avoid mixing CPU matrix composition with shader vector conventions.",
+  "math_validation": ".article_tools/qa/math_validation.json",
+  "capture_hashes_unchanged": {
+    "demo_day.png": true,
+    "demo_sunset.png": true,
+    "demo_twilight_5.png": true,
+    "demo_twilight_1.png": true,
+    "earth_global.png": true,
+    "earth_orbit.png": true,
+    "earth_horizon.png": true
+  },
+  "source_hashes_unchanged": {
+    "GNXEngine/Engine/Shader/built-in/Atmosphere/AtmosphereCommon.hlsl": true,
+    "GNXEngine/Engine/Runtime/RenderSystem/include/Atmosphere/AtmosphereRenderer.cpp": true,
+    "GNXEngine/data_asset/Shader/AtmosphereDemo/Sky.msl_macos.gnxasset": true
+  },
+  "source_integrity": "Engine source and existing screenshots kept read-only; GNXEngine submodule worktree clean.",
+  "original_diagrams": 16,
+  "reference_redraw_diagrams": 4,
+  "new_reference_figures": [
+    "bruneton_A_transmittance_geometry.png",
+    "bruneton_B_distance_parameterization.png",
+    "bruneton_C_single_scattering_geometry.png",
+    "bruneton_D_scattering_density_reuse.png"
+  ],
+  "reference_geometry_validation": ".article_tools/qa/reference_geometry_validation.json",
+  "paper_reading_diagrams": 2,
+  "paper_reading_figures": [
+    "paper_E_four_transport_quantities.png",
+    "paper_F_terrain_shadow_approximation.png"
+  ],
+  "paper_reading_examples_validation": ".article_tools/qa/paper_reading_examples_validation.json",
+  "missing_preview_links": [],
+  "duplicate_long_paragraphs": [],
+  "explanatory_diagrams": 4,
+  "explanatory_figures": [
+    "explain_G_lut_encoding_and_texel_centers.png",
+    "explain_H_solid_angle_and_irradiance_weights.png",
+    "explain_I_delta_texture_lifetime.png",
+    "explain_J_ellipsoid_to_spherical_proxy.png"
+  ],
+  "main_text_example_groups": 14,
+  "main_text_examples_validation": ".article_tools/qa/main_text_examples_validation.json",
+  "explanatory_figure_validation": ".article_tools/qa/explanatory_figure_validation.json",
+  "image_references": 36,
+  "unique_referenced_images": 35
+}

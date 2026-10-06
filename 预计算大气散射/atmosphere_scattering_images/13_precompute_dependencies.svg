@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="540pt" viewBox="0 0 892.8 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T10:31:40.637168</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 892.8 540 
+L 892.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 67.31712 411.396923 
+L 293.85024 411.396923 
+Q 302.3616 411.396923 302.3616 404.916923 
+L 302.3616 144.221538 
+Q 302.3616 137.741538 293.85024 137.741538 
+L 67.31712 137.741538 
+Q 58.80576 137.741538 58.80576 144.221538 
+L 58.80576 404.916923 
+Q 58.80576 411.396923 67.31712 411.396923 
+z
+" clip-path="url(#p72e757ec27)" style="fill: #f3f7fb; stroke: #dce5ee; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 329.20512 411.396923 
+L 555.73824 411.396923 
+Q 564.2496 411.396923 564.2496 404.916923 
+L 564.2496 144.221538 
+Q 564.2496 137.741538 555.73824 137.741538 
+L 329.20512 137.741538 
+Q 320.69376 137.741538 320.69376 144.221538 
+L 320.69376 404.916923 
+Q 320.69376 411.396923 329.20512 411.396923 
+z
+" clip-path="url(#p72e757ec27)" style="fill: #f3f7fb; stroke: #dce5ee; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 591.09312 411.396923 
+L 817.62624 411.396923 
+Q 826.1376 411.396923 826.1376 404.916923 
+L 826.1376 144.221538 
+Q 826.1376 137.741538 817.62624 137.741538 
+L 591.09312 137.741538 
+Q 582.58176 137.741538 582.58176 144.221538 
+L 582.58176 404.916923 
+Q 582.58176 411.396923 591.09312 411.396923 
+z
+" clip-path="url(#p72e757ec27)" style="fill: #f3f7fb; stroke: #dce5ee; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 76.4832 317.187692 
+L 284.68416 317.187692 
+" clip-path="url(#p72e757ec27)" style="fill: none; stroke: #dce5ee; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 338.3712 317.187692 
+L 546.57216 317.187692 
+" clip-path="url(#p72e757ec27)" style="fill: none; stroke: #dce5ee; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 600.2592 317.187692 
+L 808.46016 317.187692 
+" clip-path="url(#p72e757ec27)" style="fill: none; stroke: #dce5ee; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 18px; font-family: 'Heiti TC'; text-anchor: start; fill: #286da8" x="77.79264" y="169.144615" transform="rotate(-0 77.79264 169.144615)">01</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: start; fill: #286da8" x="122.3136" y="168.424615" transform="rotate(-0 122.3136 168.424615)">散射密度</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #657b8e" x="78.44736" y="206.363077" transform="rotate(-0 78.44736 206.363077)">读取</text>
+   </g>
+   <g id="text_4">
+    <!-- $L^{(n-1)}_\lambda,\ E^{(n-2)}_\lambda$ -->
+    <g style="fill: #20354b" transform="translate(128.64868 238.376154)">
+     <text>
+      <tspan x="0" y="-0.73" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">L</tspan>
+      <tspan x="58.064595" y="-0.73" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">E</tspan>
+      <tspan x="11.246168" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+      <tspan x="23.538844" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">−</tspan>
+      <tspan x="34.070325" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">1</tspan>
+      <tspan x="40.020315" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+      <tspan x="70.245761" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+      <tspan x="82.538437" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">−</tspan>
+      <tspan x="93.069918" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">2</tspan>
+      <tspan x="99.019907" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+      <tspan x="9.451981" y="5.471875" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="15.208854" y="-8.960938" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">n</tspan>
+      <tspan x="68.451574" y="5.471875" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="74.208447" y="-8.960938" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">n</tspan>
+      <tspan x="44.748001" y="-0.73" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">,</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- $T_\lambda$ -->
+    <g style="fill: #20354b" transform="translate(172.67868 269.218846)">
+     <text>
+      <tspan x="0" y="-0.90625" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">T</tspan>
+      <tspan x="9.451981" y="1.64375" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13px; font-family: 'Heiti TC'; text-anchor: middle; fill: #657b8e" x="180.58368" y="300.433846" transform="rotate(-0 180.58368 300.433846)">对入射方向积分</text>
+   </g>
+   <g id="text_7">
+    <!-- $\Delta J\leftarrow J^{(n)}_\lambda$ -->
+    <g style="fill: #286da8" transform="translate(145.39368 352.813846)">
+     <text>
+      <tspan x="0" y="-0.768438" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #286da8">Δ</tspan>
+      <tspan x="24.587869" y="-0.768438" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #286da8">←</tspan>
+      <tspan x="12.995926" y="-0.768438" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #286da8">J</tspan>
+      <tspan x="44.855762" y="-0.768438" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #286da8">J</tspan>
+      <tspan x="54.748205" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #286da8">(</tspan>
+      <tspan x="65.243933" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #286da8">)</tspan>
+      <tspan x="52.847705" y="5.79375" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #286da8">λ</tspan>
+      <tspan x="58.943975" y="-9.479688" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #286da8">n</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle; fill: #20354b" x="180.58368" y="390.793846" transform="rotate(-0 180.58368 390.793846)">保存本阶的局部源项</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 305.015326 198.553846 
+Q 311.527681 198.553846 316.362984 198.553846 
+" style="fill: none; stroke: #657b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 310.762984 195.753846 
+L 316.362984 198.553846 
+L 310.762984 201.353846 
+" style="fill: none; stroke: #657b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 18px; font-family: 'Heiti TC'; text-anchor: start; fill: #518772" x="339.68064" y="169.144615" transform="rotate(-0 339.68064 169.144615)">02</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: start; fill: #518772" x="384.2016" y="168.424615" transform="rotate(-0 384.2016 168.424615)">间接辐照度</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #657b8e" x="340.33536" y="206.363077" transform="rotate(-0 340.33536 206.363077)">读取</text>
+   </g>
+   <g id="text_12">
+    <!-- $L^{(n-1)}_\lambda$ -->
+    <g style="fill: #20354b" transform="translate(418.71168 243.650769)">
+     <text>
+      <tspan x="0" y="-0.768438" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #20354b">L</tspan>
+      <tspan x="11.908435" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+      <tspan x="24.924162" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">−</tspan>
+      <tspan x="36.07511" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">1</tspan>
+      <tspan x="42.375067" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+      <tspan x="10.007935" y="5.79375" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="16.104205" y="-9.479688" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">n</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 13px; font-family: 'Heiti TC'; text-anchor: middle; fill: #657b8e" x="442.47168" y="300.433846" transform="rotate(-0 442.47168 300.433846)">对上半球积分</text>
+   </g>
+   <g id="text_14">
+    <!-- $\Delta E\leftarrow E^{(n-1)}_\lambda$ -->
+    <g style="fill: #518772" transform="translate(394.32168 352.813846)">
+     <text>
+      <tspan x="0" y="-0.768438" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #518772">Δ</tspan>
+      <tspan x="27.593851" y="-0.768438" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #518772">←</tspan>
+      <tspan x="12.995926" y="-0.768438" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #518772">E</tspan>
+      <tspan x="47.861743" y="-0.768438" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #518772">E</tspan>
+      <tspan x="60.760168" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">(</tspan>
+      <tspan x="73.775896" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">−</tspan>
+      <tspan x="84.926843" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">1</tspan>
+      <tspan x="91.226801" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">)</tspan>
+      <tspan x="58.859668" y="5.79375" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">λ</tspan>
+      <tspan x="64.955938" y="-9.479688" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">n</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- 累计到天空辐照度 $E_{\mathrm{sky}}$ -->
+    <g style="fill: #20354b" transform="translate(383.19168 389.773846)">
+     <text>
+      <tspan x="0" y="-0.1875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">累</tspan>
+      <tspan x="12.000092" y="-0.1875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">计</tspan>
+      <tspan x="24.000183" y="-0.1875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">到</tspan>
+      <tspan x="36.000275" y="-0.1875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">天</tspan>
+      <tspan x="48.000366" y="-0.1875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">空</tspan>
+      <tspan x="60.000458" y="-0.1875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">辐</tspan>
+      <tspan x="72.000549" y="-0.1875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">照</tspan>
+      <tspan x="84.000641" y="-0.1875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">度</tspan>
+      <tspan x="96.000732" y="-0.1875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b"> </tspan>
+      <tspan x="99.000748" y="-0.1875" style="font-style: italic; font-size: 12px; font-family: 'STIXGeneral'; fill: #20354b">E</tspan>
+      <tspan x="106.332794" y="1.6125" style="font-size: 8.4px; font-family: 'STIXGeneral'; fill: #20354b">s</tspan>
+      <tspan x="109.600415" y="1.6125" style="font-size: 8.4px; font-family: 'STIXGeneral'; fill: #20354b">k</tspan>
+      <tspan x="113.800447" y="1.6125" style="font-size: 8.4px; font-family: 'STIXGeneral'; fill: #20354b">y</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 566.903326 198.553846 
+Q 573.415681 198.553846 578.250984 198.553846 
+" style="fill: none; stroke: #657b8e; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 572.650984 195.753846 
+L 578.250984 198.553846 
+L 572.650984 201.353846 
+" style="fill: none; stroke: #657b8e; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 18px; font-family: 'Heiti TC'; text-anchor: start; fill: #d68a31" x="601.56864" y="169.144615" transform="rotate(-0 601.56864 169.144615)">03</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: start; fill: #d68a31" x="646.0896" y="168.424615" transform="rotate(-0 646.0896 168.424615)">多次散射</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #657b8e" x="602.22336" y="206.363077" transform="rotate(-0 602.22336 206.363077)">读取</text>
+   </g>
+   <g id="text_19">
+    <!-- $J^{(n)}_\lambda,\ T_\lambda$ -->
+    <g style="fill: #20354b" transform="translate(676.27968 243.650769)">
+     <text>
+      <tspan x="0" y="-0.768438" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #20354b">J</tspan>
+      <tspan x="39.493851" y="-0.768438" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #20354b">T</tspan>
+      <tspan x="9.892443" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+      <tspan x="20.388171" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+      <tspan x="7.991943" y="5.79375" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="14.088214" y="-9.479688" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">n</tspan>
+      <tspan x="49.501785" y="1.931562" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="25.393941" y="-0.768438" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #20354b">,</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 13px; font-family: 'Heiti TC'; text-anchor: middle; fill: #657b8e" x="704.35968" y="300.433846" transform="rotate(-0 704.35968 300.433846)">沿观察路径积分</text>
+   </g>
+   <g id="text_21">
+    <!-- $\Delta L\leftarrow L^{(n)}_\lambda$ -->
+    <g style="fill: #d68a31" transform="translate(667.18968 352.813846)">
+     <text>
+      <tspan x="0" y="-0.768438" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">Δ</tspan>
+      <tspan x="26.60386" y="-0.768438" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">←</tspan>
+      <tspan x="12.995926" y="-0.768438" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">L</tspan>
+      <tspan x="46.871753" y="-0.768438" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">L</tspan>
+      <tspan x="58.780188" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #d68a31">(</tspan>
+      <tspan x="69.275915" y="-9.479688" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #d68a31">)</tspan>
+      <tspan x="56.879688" y="5.79375" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #d68a31">λ</tspan>
+      <tspan x="62.975958" y="-9.479688" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #d68a31">n</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_22">
+    <!-- 累计到散射纹理 $\mathcal{C}$ -->
+    <g style="fill: #20354b" transform="translate(657.43968 390.793846)">
+     <text>
+      <tspan x="0" y="-0.25" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">累</tspan>
+      <tspan x="12.000092" y="-0.25" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">计</tspan>
+      <tspan x="24.000183" y="-0.25" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">到</tspan>
+      <tspan x="36.000275" y="-0.25" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">散</tspan>
+      <tspan x="48.000366" y="-0.25" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">射</tspan>
+      <tspan x="60.000458" y="-0.25" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">纹</tspan>
+      <tspan x="72.000549" y="-0.25" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b">理</tspan>
+      <tspan x="84.000641" y="-0.25" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20354b"> </tspan>
+      <tspan x="87.000656" y="-0.25" style="font-style: italic; font-size: 12px; font-family: 'STIXNonUnicode'; fill: #20354b"></tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_4">
+   <path d="M 53.568 89.64 
+L 839.232 89.64 
+" style="fill: none; stroke: #dce5ee; stroke-width: 1.2; stroke-linecap: round"/>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 21px; font-family: 'Heiti TC'; text-anchor: start; fill: #20354b" x="53.568" y="48.3" transform="rotate(-0 53.568 48.3)">13  一轮递推：先消费旧阶次，再更新临时纹理</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 12.5px; font-family: 'Heiti TC'; text-anchor: start; fill: #657b8e" x="53.568" y="77.71" transform="rotate(-0 53.568 77.71)">三个 Pass 按执行顺序排列；每个框分别列出读取内容和写入结果。</text>
+  </g>
+  <g id="text_25">
+   <g id="patch_7">
+    <path d="M 784.232 50.51 
+L 839.232 50.51 
+Q 844.182 50.51 844.182 45.56 
+L 844.182 34.56 
+Q 844.182 29.61 839.232 29.61 
+L 784.232 29.61 
+Q 779.282 29.61 779.282 34.56 
+L 779.282 45.56 
+Q 779.282 50.51 784.232 50.51 
+z
+" style="fill: #f3f7fb"/>
+   </g>
+   <text style="font-size: 11px; font-family: 'Heiti TC'; text-anchor: end; fill: #286da8" x="839.232" y="44.02" transform="rotate(-0 839.232 44.02)">预计算调度</text>
+  </g>
+  <g id="text_26">
+   <!-- $n=2$ 时由 $C_R$、$C_M$ 恢复 $L^{(1)}$；必须先读取旧 $E$，再覆盖 $\Delta E$。累计辐照度另存。 -->
+   <g style="fill: #657b8e" transform="translate(53.568 512.895)">
+    <text>
+     <tspan x="0" y="-0.803625" style="font-style: italic; font-size: 11.5px; font-family: 'STIXGeneral'; fill: #657b8e">n</tspan>
+     <tspan x="52.726999" y="-0.803625" style="font-style: italic; font-size: 11.5px; font-family: 'STIXGeneral'; fill: #657b8e">C</tspan>
+     <tspan x="77.333302" y="-0.803625" style="font-style: italic; font-size: 11.5px; font-family: 'STIXGeneral'; fill: #657b8e">C</tspan>
+     <tspan x="120.976507" y="-0.803625" style="font-style: italic; font-size: 11.5px; font-family: 'STIXGeneral'; fill: #657b8e">L</tspan>
+     <tspan x="221.864302" y="-0.803625" style="font-style: italic; font-size: 11.5px; font-family: 'STIXGeneral'; fill: #657b8e">E</tspan>
+     <tspan x="286.068128" y="-0.803625" style="font-style: italic; font-size: 11.5px; font-family: 'STIXGeneral'; fill: #657b8e">E</tspan>
+     <tspan x="8.049939" y="-0.803625" style="font-size: 11.5px; font-family: 'STIXGeneral'; fill: #657b8e">=</tspan>
+     <tspan x="18.227365" y="-0.803625" style="font-size: 11.5px; font-family: 'STIXGeneral'; fill: #657b8e">2</tspan>
+     <tspan x="277.765211" y="-0.803625" style="font-size: 11.5px; font-family: 'STIXGeneral'; fill: #657b8e">Δ</tspan>
+     <tspan x="23.977304" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="26.852274" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">时</tspan>
+     <tspan x="38.352151" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">由</tspan>
+     <tspan x="49.852029" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="65.833424" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">、</tspan>
+     <tspan x="92.226812" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="95.101782" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">恢</tspan>
+     <tspan x="106.60166" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">复</tspan>
+     <tspan x="118.101537" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="138.490187" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">；</tspan>
+     <tspan x="149.990064" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">必</tspan>
+     <tspan x="161.489942" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">须</tspan>
+     <tspan x="172.98982" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">先</tspan>
+     <tspan x="184.489698" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">读</tspan>
+     <tspan x="195.989576" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">取</tspan>
+     <tspan x="207.489454" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">旧</tspan>
+     <tspan x="218.989332" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="228.89073" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">，</tspan>
+     <tspan x="240.390608" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">再</tspan>
+     <tspan x="251.890486" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">覆</tspan>
+     <tspan x="263.390364" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">盖</tspan>
+     <tspan x="274.890241" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="293.094557" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">。</tspan>
+     <tspan x="304.594435" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">累</tspan>
+     <tspan x="316.094313" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">计</tspan>
+     <tspan x="327.59419" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">辐</tspan>
+     <tspan x="339.094068" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">照</tspan>
+     <tspan x="350.593946" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">度</tspan>
+     <tspan x="362.093824" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">另</tspan>
+     <tspan x="373.593702" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">存</tspan>
+     <tspan x="385.09358" y="-0.803625" style="font-size: 11.5px; font-family: 'Heiti TC'; fill: #657b8e">。</tspan>
+     <tspan x="60.397424" y="0.921375" style="font-style: italic; font-size: 8.05px; font-family: 'STIXGeneral'; fill: #657b8e">R</tspan>
+     <tspan x="85.003727" y="0.921375" style="font-style: italic; font-size: 8.05px; font-family: 'STIXGeneral'; fill: #657b8e">M</tspan>
+     <tspan x="128.586474" y="-5.553125" style="font-size: 8.05px; font-family: 'STIXGeneral'; fill: #657b8e">(</tspan>
+     <tspan x="131.267102" y="-5.553125" style="font-size: 8.05px; font-family: 'STIXGeneral'; fill: #657b8e">1</tspan>
+     <tspan x="135.292059" y="-5.553125" style="font-size: 8.05px; font-family: 'STIXGeneral'; fill: #657b8e">)</tspan>
+    </text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p72e757ec27">
+   <rect x="53.568" y="118.8" width="785.664" height="324"/>
+  </clipPath>
+ </defs>
+</svg>

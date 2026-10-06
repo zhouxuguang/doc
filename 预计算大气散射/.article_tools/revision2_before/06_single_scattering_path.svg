@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="572.4pt" height="311.36pt" viewBox="0 0 572.4 311.36" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T00:31:11.301846</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 311.36 
+L 572.4 311.36 
+L 572.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 286.2 203.444 
+C 290.935467 203.444 295.477618 201.886264 298.826099 199.113867 
+C 302.174579 196.341469 304.056 192.580763 304.056 188.66 
+C 304.056 184.739237 302.174579 180.978531 298.826099 178.206133 
+C 295.477618 175.433736 290.935467 173.876 286.2 173.876 
+C 281.464533 173.876 276.922382 175.433736 273.573901 178.206133 
+C 270.225421 180.978531 268.344 184.739237 268.344 188.66 
+C 268.344 192.580763 270.225421 196.341469 273.573901 199.113867 
+C 276.922382 201.886264 281.464533 203.444 286.2 203.444 
+z
+" clip-path="url(#paf966ce655)" style="fill: #fff1d7; stroke: #e89132; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 63 234.86 
+L 492.66 145.694 
+" clip-path="url(#paf966ce655)" style="fill: none; stroke: #1766a3; stroke-opacity: 0.35; stroke-width: 8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <defs>
+     <path id="m64620eed77" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #243e53"/>
+    </defs>
+    <g clip-path="url(#paf966ce655)">
+     <use xlink:href="#m64620eed77" x="63" y="234.86" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <g clip-path="url(#paf966ce655)">
+     <use xlink:href="#m64620eed77" x="286.2" y="188.66" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="line2d_4">
+    <g clip-path="url(#paf966ce655)">
+     <use xlink:href="#m64620eed77" x="470.34" y="73.16" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="69.696" y="228.854" transform="rotate(-0 69.696 228.854)">P</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="292.896" y="182.654" transform="rotate(-0 292.896 182.654)">Q=P+dω</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="477.036" y="67.154" transform="rotate(-0 477.036 67.154)">太阳</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 468.645719 74.222721 
+Q 378.270557 130.909651 289.979095 186.2896 
+" style="fill: none; stroke: #e89132; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 295.320659 185.772204 
+L 289.979095 186.2896 
+L 292.770117 181.705912 
+" style="fill: none; stroke: #e89132; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <!-- $E_{\odot,\lambda}\,T_{\odot,\lambda}(Q)$ -->
+    <g style="fill: #e89132" transform="translate(343.77 119.714)">
+     <text>
+      <tspan x="0" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #e89132">E</tspan>
+      <tspan x="26.174453" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #e89132">T</tspan>
+      <tspan x="54.830312" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #e89132">Q</tspan>
+      <tspan x="7.582031" y="0.909369" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">⊙</tspan>
+      <tspan x="14.620312" y="0.909369" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">,</tspan>
+      <tspan x="33.504531" y="0.909369" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">⊙</tspan>
+      <tspan x="40.542812" y="0.909369" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">,</tspan>
+      <tspan x="18.926953" y="0.909369" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">λ</tspan>
+      <tspan x="44.849453" y="0.909369" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">λ</tspan>
+      <tspan x="50.148672" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #e89132">(</tspan>
+      <tspan x="64.275625" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #e89132">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_4">
+    <path d="M 284.241687 189.06535 
+Q 174.601537 211.759682 67.370004 233.955456 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 72.55683 235.332713 
+L 67.370004 233.955456 
+L 71.583905 230.63235 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <!-- $T_\lambda(P,Q)$ -->
+    <g style="fill: #1766a3" transform="translate(152.16 233.06)">
+     <text>
+      <tspan x="0" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">T</tspan>
+      <tspan x="17.310938" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">P</tspan>
+      <tspan x="30.699609" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">Q</tspan>
+      <tspan x="7.330078" y="0.909369" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #1766a3">λ</tspan>
+      <tspan x="12.629297" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">(</tspan>
+      <tspan x="24.547266" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">,</tspan>
+      <tspan x="40.144922" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- 局部散射：$\beta_i^s(Q,\lambda)\,p_i(\nu)$ -->
+    <g style="fill: #243e53" transform="translate(302.94 253.34)">
+     <text>
+      <tspan x="0" y="-0.926562" style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53">局</tspan>
+      <tspan x="12.000092" y="-0.926562" style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53">部</tspan>
+      <tspan x="24.000183" y="-0.926562" style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53">散</tspan>
+      <tspan x="36.000275" y="-0.926562" style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53">射</tspan>
+      <tspan x="48.000366" y="-0.926562" style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53">：</tspan>
+      <tspan x="60.000458" y="-0.926562" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">β</tspan>
+      <tspan x="77.948231" y="-0.926562" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">Q</tspan>
+      <tspan x="93.545887" y="-0.926562" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">λ</tspan>
+      <tspan x="107.277372" y="-0.926562" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">p</tspan>
+      <tspan x="122.238114" y="-0.926562" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">ν</tspan>
+      <tspan x="67.658661" y="3.210938" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">i</tspan>
+      <tspan x="68.562098" y="-6.296875" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">s</tspan>
+      <tspan x="114.894559" y="0.873432" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">i</tspan>
+      <tspan x="73.266591" y="-0.926562" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">(</tspan>
+      <tspan x="87.393544" y="-0.926562" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">,</tspan>
+      <tspan x="100.64745" y="-0.926562" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">)</tspan>
+      <tspan x="117.556473" y="-0.926562" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">(</tspan>
+      <tspan x="128.941239" y="-0.926562" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle" x="286.2" y="292.61" transform="rotate(-0 286.2 292.61)">沿观察路径积累，每个采样点都有“太阳→Q→P”两段衰减。</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: middle" x="286.2" y="20.96" transform="rotate(-0 286.2 20.96)">单次散射的两段光路</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="paf966ce655">
+   <rect x="7.2" y="26.96" width="558" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>

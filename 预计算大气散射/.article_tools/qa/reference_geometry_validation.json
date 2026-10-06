@@ -1,0 +1,26 @@
+{
+  "A": {
+    "top_radius_error": 0.0,
+    "collinear_cross_product": -9.74063260078853e-16,
+    "Q_inside_shell": true
+  },
+  "B": {
+    "ground_tangent_radius_error": 0.0,
+    "perpendicular_dot": 1.1102230246251565e-16,
+    "rho_length_error": 0.0,
+    "H_length_error": 0.0,
+    "top_radius_error": 0.0
+  },
+  "C": {
+    "mu_s_update_error": 1.1102230246251565e-16,
+    "mu_update_error": 0.0,
+    "Q_inside_shell": true,
+    "nu": -0.2588190451025208,
+    "mu_s_P": 0.8660254037844386,
+    "mu_s_Q": 0.6678723357632315
+  },
+  "D": {
+    "collinear_cross_product": 4.6795733807759355e-17,
+    "points_inside_shell": true
+  }
+}

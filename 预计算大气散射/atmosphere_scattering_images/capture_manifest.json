@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-05",
+  "algorithm": "LegacyPrecomputed",
+  "exposure": 5.0,
+  "backend": "macOS Metal",
+  "captures": [
+    {
+      "name": "demo_day",
+      "kind": "demo",
+      "zenith": 1.0,
+      "orders": 5,
+      "azimuth": 2.9,
+      "camera": [
+        8910,
+        905,
+        893
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ],
+      "frames": 120,
+      "exit_code": 0,
+      "file": "demo_day.png",
+      "log": ".article_tools/qa/demo_day.log",
+      "evidence": [
+        "[2026-10-05 23:40:51.254][AtmosphereRenderer.cpp:Precompute:557][INFO]AtmosphereRenderer: precompute finished (orders=5)",
+        "[2026-10-05 23:41:02.026][ScreenshotUtil.cpp:CaptureFrameToPng:224][INFO]CaptureFrameToPng: saved /Users/zhouxuguang/work/doc/预计算大气散射/atmosphere_scattering_images/demo_day.png (2560x1440)",
+        "CAPTURE_DONE sun_zenith=1 sun_azimuth=2.9 orders=5 frames=120 saved=1"
+      ],
+      "success": true,
+      "sun_direction": [
+        -0.8170331234356941,
+        0.5403023058681398,
+        -0.2013213686683184
+      ],
+      "image_sha256": "96ea762e53c16aa8667d5897bb845406a10c7197223e766f0cdd69c2cdb85dbf"
+    },
+    {
+      "name": "demo_sunset",
+      "kind": "demo",
+      "zenith": 1.56,
+      "orders": 5,
+      "azimuth": 2.9,
+      "camera": [
+        8910,
+        905,
+        893
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ],
+      "frames": 120,
+      "exit_code": 0,
+      "file": "demo_sunset.png",
+      "log": ".article_tools/qa/demo_sunset.log",
+      "evidence": [
+        "[2026-10-05 23:41:06.703][AtmosphereRenderer.cpp:Precompute:557][INFO]AtmosphereRenderer: precompute finished (orders=5)",
+        "[2026-10-05 23:41:17.510][ScreenshotUtil.cpp:CaptureFrameToPng:224][INFO]CaptureFrameToPng: saved /Users/zhouxuguang/work/doc/预计算大气散射/atmosphere_scattering_images/demo_sunset.png (2560x1440)",
+        "CAPTURE_DONE sun_zenith=1.56 sun_azimuth=2.9 orders=5 frames=120 saved=1"
+      ],
+      "success": true,
+      "sun_direction": [
+        -0.9709015779310133,
+        0.010796117058267392,
+        -0.2392353858180951
+      ],
+      "image_sha256": "7d5243654458d10d931ed2cc68a235cce579ff3a752a7259ae0d69c6aa2948fa"
+    },
+    {
+      "name": "demo_twilight_5",
+      "kind": "demo",
+      "zenith": 1.64,
+      "orders": 5,
+      "azimuth": 2.9,
+      "camera": [
+        8910,
+        905,
+        893
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ],
+      "frames": 120,
+      "exit_code": 0,
+      "file": "demo_twilight_5.png",
+      "log": ".article_tools/qa/demo_twilight_5.log",
+      "evidence": [
+        "[2026-10-05 23:41:22.268][AtmosphereRenderer.cpp:Precompute:557][INFO]AtmosphereRenderer: precompute finished (orders=5)",
+        "[2026-10-05 23:41:32.969][ScreenshotUtil.cpp:CaptureFrameToPng:224][INFO]CaptureFrameToPng: saved /Users/zhouxuguang/work/doc/预计算大气散射/atmosphere_scattering_images/demo_twilight_5.png (2560x1440)",
+        "CAPTURE_DONE sun_zenith=1.64 sun_azimuth=2.9 orders=5 frames=120 saved=1"
+      ],
+      "success": true,
+      "sun_direction": [
+        -0.9686340615471877,
+        -0.06914844865406196,
+        -0.23867665755020065
+      ],
+      "image_sha256": "865ab44082822a931d745003acf2a15abc909c931d4a1643a2508dd80d1929dc"
+    },
+    {
+      "name": "demo_twilight_1",
+      "kind": "demo",
+      "zenith": 1.64,
+      "orders": 1,
+      "azimuth": 2.9,
+      "camera": [
+        8910,
+        905,
+        893
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ],
+      "frames": 120,
+      "exit_code": 0,
+      "file": "demo_twilight_1.png",
+      "log": ".article_tools/qa/demo_twilight_1.log",
+      "evidence": [
+        "[2026-10-05 23:41:34.828][AtmosphereRenderer.cpp:Precompute:557][INFO]AtmosphereRenderer: precompute finished (orders=1)",
+        "[2026-10-05 23:41:46.340][ScreenshotUtil.cpp:CaptureFrameToPng:224][INFO]CaptureFrameToPng: saved /Users/zhouxuguang/work/doc/预计算大气散射/atmosphere_scattering_images/demo_twilight_1.png (2560x1440)",
+        "CAPTURE_DONE sun_zenith=1.64 sun_azimuth=2.9 orders=1 frames=120 saved=1"
+      ],
+      "success": true,
+      "sun_direction": [
+        -0.9686340615471877,
+        -0.06914844865406196,
+        -0.23867665755020065
+      ],
+      "image_sha256": "29b6d820969bee9b3049b550f73a92be408a38a5d2f080aacdffc1ff7fea851d"
+    },
+    {
+      "name": "earth_global",
+      "kind": "map",
+      "distance": 15000000,
+      "pitch": 0,
+      "target_lon": 110,
+      "target_lat": 23,
+      "orders": 5,
+      "frames": 180,
+      "exit_code": 0,
+      "file": "earth_global.png",
+      "log": ".article_tools/qa/earth_global.log",
+      "evidence": [
+        "        视点: 经度=110.000000 纬度=23.000000 高=15000000.000",
+        "[2026-10-05 23:41:49.933][AtmosphereRenderer.cpp:Precompute:557][INFO]AtmosphereRenderer: precompute finished (orders=5)",
+        "[2026-10-05 23:41:53.399][MapRenderer.cpp:LogCameraState:278][INFO][截图] 方位角(目标点基准)=0.000000 度 俯仰角(目标点基准)=0.000000 度 | 方位角(视点基准)=0.000000 度 俯仰角(视点基准)=0.000000 度 | 距离=15000000.000 m",
+        "        视点: 经度=110.000000 纬度=23.000000 高=15000000.000",
+        "[2026-10-05 23:41:53.739][ScreenshotUtil.cpp:CaptureFrameToPng:224][INFO]CaptureFrameToPng: saved /Users/zhouxuguang/work/doc/预计算大气散射/atmosphere_scattering_images/earth_global.png (2560x1440)"
+      ],
+      "success": true,
+      "sun_direction": [
+        0.5050762722761053,
+        0.3030457633656632,
+        0.8081220356417687
+      ],
+      "image_sha256": "f7a8d4d468b71eb8eb68bd6f99c3c2d7a1a0010b9f2ddbbb9be78c9a5db26e0b"
+    },
+    {
+      "name": "earth_orbit",
+      "kind": "map",
+      "distance": 1000000,
+      "pitch": 65,
+      "target_lon": 110,
+      "target_lat": 23,
+      "orders": 5,
+      "frames": 180,
+      "exit_code": 0,
+      "file": "earth_orbit.png",
+      "log": ".article_tools/qa/earth_orbit.log",
+      "evidence": [
+        "        视点: 经度=110.000000 纬度=15.369517 高=483049.532",
+        "[2026-10-05 23:41:57.549][AtmosphereRenderer.cpp:Precompute:557][INFO]AtmosphereRenderer: precompute finished (orders=5)",
+        "[2026-10-05 23:42:03.017][MapRenderer.cpp:LogCameraState:278][INFO][截图] 方位角(目标点基准)=0.000000 度 俯仰角(目标点基准)=65.000000 度 | 方位角(视点基准)=0.000000 度 俯仰角(视点基准)=57.369517 度 | 距离=1000000.000 m",
+        "        视点: 经度=110.000000 纬度=15.369517 高=483049.532",
+        "[2026-10-05 23:42:03.538][ScreenshotUtil.cpp:CaptureFrameToPng:224][INFO]CaptureFrameToPng: saved /Users/zhouxuguang/work/doc/预计算大气散射/atmosphere_scattering_images/earth_orbit.png (2560x1440)"
+      ],
+      "success": true,
+      "sun_direction": [
+        0.5050762722761053,
+        0.3030457633656632,
+        0.8081220356417687
+      ],
+      "image_sha256": "18b73ac3adfdc184b4cdf686e6f6a60f7901dfd7d666d2478cc6f908e099646b"
+    },
+    {
+      "name": "earth_horizon",
+      "kind": "map",
+      "distance": 20000,
+      "pitch": 85,
+      "target_lon": 110,
+      "target_lat": 23,
+      "orders": 5,
+      "frames": 180,
+      "exit_code": 0,
+      "file": "earth_horizon.png",
+      "log": ".article_tools/qa/earth_horizon.log",
+      "evidence": [
+        "        视点: 经度=110.000000 纬度=22.820139 高=1774.387",
+        "[2026-10-05 23:42:07.649][AtmosphereRenderer.cpp:Precompute:557][INFO]AtmosphereRenderer: precompute finished (orders=5)",
+        "[2026-10-05 23:42:12.882][MapRenderer.cpp:LogCameraState:278][INFO][截图] 方位角(目标点基准)=0.000000 度 俯仰角(目标点基准)=85.000000 度 | 方位角(视点基准)=0.000000 度 俯仰角(视点基准)=84.820139 度 | 距离=20000.000 m",
+        "        视点: 经度=110.000000 纬度=22.820139 高=1774.387",
+        "[2026-10-05 23:42:13.407][ScreenshotUtil.cpp:CaptureFrameToPng:224][INFO]CaptureFrameToPng: saved /Users/zhouxuguang/work/doc/预计算大气散射/atmosphere_scattering_images/earth_horizon.png (2560x1440)"
+      ],
+      "success": true,
+      "sun_direction": [
+        0.5050762722761053,
+        0.3030457633656632,
+        0.8081220356417687
+      ],
+      "image_sha256": "ffb5238aafde0864147ff5ee3f792f16eba7526852b9f238ece66d09206963bc"
+    }
+  ],
+  "engine_root": "/Users/zhouxuguang/work/mycode/GNXMapEngine",
+  "source_hashes": {
+    "GNXEngine/Engine/Shader/built-in/Atmosphere/AtmosphereCommon.hlsl": "c1c7804d175367a693129272c96e96acde9c6e62c3316ddc3691deaaa38fec98",
+    "GNXEngine/Engine/Runtime/RenderSystem/include/Atmosphere/AtmosphereRenderer.cpp": "9dabdb33c44e349122a888e7cbc27a02074f49dbc8d0e5aa2570c1f21176e46d",
+    "GNXEngine/data_asset/Shader/AtmosphereDemo/Sky.msl_macos.gnxasset": "2d03722e15374cd7ad02d2c32d0f51b6e190798793373da9f65328b0a046a95b"
+  },
+  "notes": "Demo capture uses copied demo source with UI disabled and preset parameters; original renderer, shaders and repository source are unchanged.",
+  "map_commit": "a16cf56d14c943f50459de5caa1e99e4ed4072d8",
+  "engine_commit": "05836717b0df47cd0ad8b857e91292a2bf72fbf1"
+}

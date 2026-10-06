@@ -1,0 +1,24 @@
+{
+  "single_sample_radiance": 4.800000000000001e-05,
+  "aerial_perspective_difference": 7.0,
+  "parameterization_km": [
+    {
+      "r_km": 6360.0,
+      "h_km": 0.0,
+      "mu": 0.0,
+      "rho_km": 0.0,
+      "dt_km": 875.6711711595855,
+      "x_mu": 1.0,
+      "u_mu_no_texel_offset": 1.0
+    },
+    {
+      "r_km": 6360.786114938939,
+      "h_km": 0.7861149389391358,
+      "mu": 0.01572132723738974,
+      "rho_km": 100.0,
+      "dt_km": 775.6711711595855,
+      "x_mu": 0.7817683343962211,
+      "u_mu_no_texel_offset": 0.8908841671981105
+    }
+  ]
+}

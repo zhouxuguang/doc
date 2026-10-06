@@ -1,0 +1,26 @@
+[
+  {
+    "figure": "bruneton_A_transmittance_geometry",
+    "text_count": 17,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "bruneton_B_distance_parameterization",
+    "text_count": 20,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "bruneton_C_single_scattering_geometry",
+    "text_count": 25,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "bruneton_D_scattering_density_reuse",
+    "text_count": 14,
+    "overlaps": [],
+    "outside_canvas": []
+  }
+]

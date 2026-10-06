@@ -1,0 +1,184 @@
+{
+  "uniform_hemisphere": {
+    "E_over_L": 3.141592653589793,
+    "expected": 3.141592653589793
+  },
+  "homogeneous_transfer": {
+    "quadrature_source": 15.962069640447416,
+    "closed_source": 15.962069640106893,
+    "received_with_boundary": 16.56775919409086,
+    "zero_extinction_limit_relative_error": 4.000000330961484e-11
+  },
+  "sphere_geometry": {
+    "downward_roots_m": [
+      1000.0,
+      12721000.0
+    ],
+    "horizon_mu": -0.01773108169234128,
+    "horizon_depression_deg": 1.0159693872312934,
+    "first_above_ground_T_sample_m": 15.188447187654674
+  },
+  "short_path_examples": {
+    "equivalent_length_m": 500.0,
+    "optical_depth": 0.01,
+    "single_sample_radiance": 4.800000000000001e-05
+  },
+  "texel_center_example": {
+    "u": 0.42500000000000004,
+    "continuous_index": 1.2000000000000002,
+    "neighbor_indices": [
+      1,
+      2
+    ],
+    "weights": [
+      0.8,
+      0.2
+    ]
+  },
+  "scattering_mu_endpoints": {
+    "order": [
+      "down",
+      "horizon_ground",
+      "horizon_sky",
+      "up"
+    ],
+    "u_mu": [
+      0.49609375,
+      0.00390625,
+      0.99609375,
+      0.50390625
+    ]
+  },
+  "angle_feasibility_example": {
+    "mu": 0.6,
+    "mu_s": 0.8,
+    "nu_interval": [
+      5.551115123125783e-17,
+      0.96
+    ]
+  },
+  "packed_interpolation": {
+    "coordinates": [
+      [
+        0.4375,
+        0.75,
+        0.25
+      ],
+      [
+        0.5625,
+        0.75,
+        0.25
+      ]
+    ],
+    "nu_fraction": 0.5,
+    "multilinear_value_error": 0.0
+  },
+  "solid_angle_grid": {
+    "exact_cell_sum_sr": 12.566370614359172,
+    "midpoint_sum_sr": 12.58657971440637,
+    "midpoint_relative_area_error": 0.0016081890839749757,
+    "equatorial_to_polar_weight_ratio": 10.15317038760886
+  },
+  "frame_schedule": {
+    "draw_steps": 294,
+    "recording_frames": 13,
+    "first_three_frame_steps": [
+      [
+        "T",
+        "direct",
+        "single_0",
+        "single_1",
+        "single_2",
+        "single_3",
+        "single_4",
+        "single_5",
+        "single_6",
+        "single_7",
+        "single_8",
+        "single_9",
+        "single_10",
+        "single_11",
+        "single_12",
+        "single_13",
+        "single_14",
+        "single_15",
+        "single_16",
+        "single_17",
+        "single_18",
+        "single_19",
+        "single_20",
+        "single_21"
+      ],
+      [
+        "single_22",
+        "single_23",
+        "single_24",
+        "single_25",
+        "single_26",
+        "single_27",
+        "single_28",
+        "single_29",
+        "single_30",
+        "single_31",
+        "density_2_0",
+        "density_2_1",
+        "density_2_2",
+        "density_2_3",
+        "density_2_4",
+        "density_2_5",
+        "density_2_6",
+        "density_2_7",
+        "density_2_8",
+        "density_2_9",
+        "density_2_10",
+        "density_2_11",
+        "density_2_12",
+        "density_2_13"
+      ],
+      [
+        "density_2_14",
+        "density_2_15",
+        "density_2_16",
+        "density_2_17",
+        "density_2_18",
+        "density_2_19",
+        "density_2_20",
+        "density_2_21",
+        "density_2_22",
+        "density_2_23",
+        "density_2_24",
+        "density_2_25",
+        "density_2_26",
+        "density_2_27",
+        "density_2_28",
+        "density_2_29",
+        "density_2_30",
+        "density_2_31",
+        "irradiance_1",
+        "multiple_2_0",
+        "multiple_2_1",
+        "multiple_2_2",
+        "multiple_2_3",
+        "multiple_2_4"
+      ]
+    ],
+    "direction_iterations_per_density_stage": 536870912
+  },
+  "phase_encoding_example": {
+    "decoded_radiance": 6.0
+  },
+  "fp16_ratio_example": {
+    "exact": 0.36787944117144233,
+    "stored_numerator": 0.0,
+    "stored_denominator": 0.0
+  },
+  "display_order_example": {
+    "combine_then_map": 0.8646647167633873,
+    "map_then_combine": 1.0644529172102513
+  },
+  "ellipsoid_closest_point_float64": {
+    "height_error_m": 3.183231456205249e-10,
+    "surface_point_error_m": 0.0,
+    "note": "Float64 explanatory geometry; not a bound on the shader float32 error."
+  }
+}

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="504pt" viewBox="0 0 892.8 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T10:31:39.779631</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 892.8 504 
+L 892.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 212.754823 156.296781 
+Q 252.911174 200.799044 291.569526 243.641187 
+" style="fill: none; stroke: #2297ad; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 289.896741 237.607797 
+L 291.569526 243.641187 
+L 285.739144 241.359381 
+" style="fill: none; stroke: #2297ad; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 400.353884 160.352725 
+Q 358.209381 203.054972 317.635589 244.16572 
+" style="fill: none; stroke: #2297ad; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 323.562143 242.14682 
+L 317.635589 244.16572 
+L 319.576401 238.213137 
+" style="fill: none; stroke: #2297ad; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 469.455777 217.030414 
+Q 395.438054 235.258919 323.591526 252.95272 
+" style="fill: none; stroke: #2297ad; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 329.698616 254.332374 
+L 323.591526 252.95272 
+L 328.359503 248.89484 
+" style="fill: none; stroke: #2297ad; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 437.169881 334.91076 
+Q 378.183633 300.647852 321.614314 267.788848 
+" style="fill: none; stroke: #d68a31; stroke-width: 2.5; stroke-linecap: round"/>
+    <path d="M 325.050302 273.022775 
+L 321.614314 267.788848 
+L 327.863048 268.180414 
+" style="fill: none; stroke: #d68a31; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 302.264944 257.712 
+Q 204.450215 257.712 109.542375 257.712 
+" style="fill: none; stroke: #286da8; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 115.142375 260.512 
+L 109.542375 257.712 
+L 115.142375 254.912 
+" style="fill: none; stroke: #286da8; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 14px; font-family: 'Heiti TC'; text-anchor: middle; fill: #20354b" x="104.63616" y="276.3348" transform="rotate(-0 104.63616 276.3348)">P</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 14px; font-family: 'Heiti TC'; text-anchor: middle; fill: #20354b" x="308.9088" y="284.5668" transform="rotate(-0 308.9088 284.5668)">Q</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 14px; font-family: 'Heiti TC'; text-anchor: middle; fill: #d68a31" x="438.90048" y="357.42" transform="rotate(-0 438.90048 357.42)">G</text>
+   </g>
+   <g id="text_4">
+    <!-- 各方向 $L^{(n-1)}_\lambda$ -->
+    <g style="fill: #2297ad" transform="translate(146.4192 146.814)">
+     <text>
+      <tspan x="0" y="-0.642187" style="font-size: 15px; font-family: 'Heiti TC'; fill: #2297ad">各</tspan>
+      <tspan x="15.000107" y="-0.642187" style="font-size: 15px; font-family: 'Heiti TC'; fill: #2297ad">方</tspan>
+      <tspan x="30.000214" y="-0.642187" style="font-size: 15px; font-family: 'Heiti TC'; fill: #2297ad">向</tspan>
+      <tspan x="45.00032" y="-0.642187" style="font-size: 15px; font-family: 'Heiti TC'; fill: #2297ad"> </tspan>
+      <tspan x="48.750351" y="-0.642187" style="font-style: italic; font-size: 15px; font-family: 'STIXGeneral'; fill: #2297ad">L</tspan>
+      <tspan x="58.675252" y="-7.901563" style="font-size: 10.5px; font-family: 'STIXGeneral'; fill: #2297ad">(</tspan>
+      <tspan x="69.521813" y="-7.901563" style="font-size: 10.5px; font-family: 'STIXGeneral'; fill: #2297ad">−</tspan>
+      <tspan x="78.814362" y="-7.901563" style="font-size: 10.5px; font-family: 'STIXGeneral'; fill: #2297ad">1</tspan>
+      <tspan x="84.064394" y="-7.901563" style="font-size: 10.5px; font-family: 'STIXGeneral'; fill: #2297ad">)</tspan>
+      <tspan x="57.090408" y="4.828125" style="font-style: italic; font-size: 10.5px; font-family: 'STIXGeneral'; fill: #2297ad">λ</tspan>
+      <tspan x="62.171781" y="-7.901563" style="font-style: italic; font-size: 10.5px; font-family: 'STIXGeneral'; fill: #2297ad">n</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 13px; font-family: 'Heiti TC'; text-anchor: middle; fill: #286da8" x="183.55968" y="232.7568" transform="rotate(-0 183.55968 232.7568)">向观察点传播</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 304.26624 268.4136 
+C 307.467415 268.4136 310.53791 267.286012 312.801483 265.279174 
+C 315.065056 263.272336 316.336896 260.550097 316.336896 257.712 
+C 316.336896 254.873903 315.065056 252.151664 312.801483 250.144826 
+C 310.53791 248.137988 307.467415 247.0104 304.26624 247.0104 
+C 301.065065 247.0104 297.99457 248.137988 295.730997 250.144826 
+C 293.467424 252.151664 292.195584 254.873903 292.195584 257.712 
+C 292.195584 260.550097 293.467424 263.272336 295.730997 265.279174 
+C 297.99457 267.286012 301.065065 268.4136 304.26624 268.4136 
+z
+" clip-path="url(#p7b98fd019d)" style="fill: #ecf4f9; stroke: #286da8; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <defs>
+     <path id="m09379d2d52" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #20354b"/>
+    </defs>
+    <g clip-path="url(#p7b98fd019d)">
+     <use xlink:href="#m09379d2d52" x="104.63616" y="257.712" style="fill: #20354b; stroke: #20354b"/>
+    </g>
+   </g>
+   <g id="line2d_2">
+    <g clip-path="url(#p7b98fd019d)">
+     <use xlink:href="#m09379d2d52" x="304.26624" y="257.712" style="fill: #20354b; stroke: #20354b"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <defs>
+     <path id="m13e95657db" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #d68a31"/>
+    </defs>
+    <g clip-path="url(#p7b98fd019d)">
+     <use xlink:href="#m13e95657db" x="438.90048" y="335.916" style="fill: #d68a31; stroke: #d68a31"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_8">
+    <path d="M 575.67744 232.5036 
+L 826.37568 232.5036 
+Q 831.73248 232.5036 831.73248 228.3876 
+L 831.73248 144.8328 
+Q 831.73248 140.7168 826.37568 140.7168 
+L 575.67744 140.7168 
+Q 570.32064 140.7168 570.32064 144.8328 
+L 570.32064 228.3876 
+Q 570.32064 232.5036 575.67744 232.5036 
+z
+" clip-path="url(#pca061a6e77)" style="fill: #f3f7fb; stroke: #dce5ee; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 575.67744 352.2792 
+L 826.37568 352.2792 
+Q 831.73248 352.2792 831.73248 348.1632 
+L 831.73248 264.6084 
+Q 831.73248 260.4924 826.37568 260.4924 
+L 575.67744 260.4924 
+Q 570.32064 260.4924 570.32064 264.6084 
+L 570.32064 348.1632 
+Q 570.32064 352.2792 575.67744 352.2792 
+z
+" clip-path="url(#pca061a6e77)" style="fill: #f3f7fb; stroke: #dce5ee; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 579.96288 223.0368 
+L 579.96288 150.1836 
+" clip-path="url(#pca061a6e77)" style="fill: none; stroke: #d68a31; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 579.96288 342.8124 
+L 579.96288 269.9592 
+" clip-path="url(#pca061a6e77)" style="fill: none; stroke: #286da8; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13px; font-family: 'Heiti TC'; text-anchor: start; fill: #d68a31" x="590.67648" y="171.82152" transform="rotate(-0 590.67648 171.82152)">地面反射后到 Q</text>
+   </g>
+   <g id="text_7">
+    <!-- $T_\lambda(Q,G)\,\frac{a_g}{\pi}E^{(n-2)}_\lambda$ -->
+    <g style="fill: #20354b" transform="translate(590.67648 210.12394)">
+     <text>
+      <tspan x="0" y="-0.73" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">T</tspan>
+      <tspan x="21.328147" y="-0.73" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">Q</tspan>
+      <tspan x="41.252103" y="-0.73" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">G</tspan>
+      <tspan x="74.807826" y="-0.73" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">E</tspan>
+      <tspan x="9.451981" y="1.82" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="63.082945" y="-10.07375" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">a</tspan>
+      <tspan x="65.082945" y="3.7325" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">π</tspan>
+      <tspan x="85.194804" y="5.471875" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="90.951678" y="-8.960938" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">n</tspan>
+      <tspan x="15.667167" y="-0.73" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+      <tspan x="33.602119" y="-0.73" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">,</tspan>
+      <tspan x="53.526075" y="-0.73" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+      <tspan x="69.044833" y="-8.28875" style="font-style: italic; font-size: 8.33px; font-family: 'STIXGeneral'; fill: #20354b">g</tspan>
+      <tspan x="86.988991" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+      <tspan x="99.281667" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">−</tspan>
+      <tspan x="109.813148" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">2</tspan>
+      <tspan x="115.763138" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+     </text>
+     <rect x="63.082945" y="-5.44875" width="10.662381" height="1.0625"/>
+    </g>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13px; font-family: 'Heiti TC'; text-anchor: start; fill: #286da8" x="590.67648" y="291.59712" transform="rotate(-0 590.67648 291.59712)">局部散射源</text>
+   </g>
+   <g id="text_9">
+    <!-- $J^{(n)}_\lambda=\int_{4\pi}\mathcal{B}_\lambda I_\lambda^{(n-1)}\,\mathrm{d}\Omega$ -->
+    <g style="fill: #20354b" transform="translate(590.67648 329.81454)">
+     <text>
+      <tspan x="0" y="-0.73" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">J</tspan>
+      <tspan x="79.497328" y="-0.73" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">I</tspan>
+      <tspan x="9.342176" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+      <tspan x="19.254852" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+      <tspan x="48.75885" y="5.557503" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">4</tspan>
+      <tspan x="86.952496" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+      <tspan x="99.245171" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">−</tspan>
+      <tspan x="109.776653" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">1</tspan>
+      <tspan x="115.726642" y="-8.960938" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+      <tspan x="7.547989" y="5.471875" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="13.304863" y="-8.960938" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">n</tspan>
+      <tspan x="54.708839" y="5.557503" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">π</tspan>
+      <tspan x="73.282142" y="1.82" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="85.158308" y="5.471875" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+      <tspan x="90.915182" y="-8.960938" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">n</tspan>
+      <tspan x="27.382538" y="-0.73" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">=</tspan>
+      <tspan x="42.427512" y="-0.73" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">∫</tspan>
+      <tspan x="123.287718" y="-0.73" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">d</tspan>
+      <tspan x="131.787703" y="-0.73" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">Ω</tspan>
+      <tspan x="60.706424" y="-0.73" style="font-style: italic; font-size: 17px; font-family: 'STIXNonUnicode'; fill: #20354b"></tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_6">
+   <path d="M 53.568 83.664 
+L 839.232 83.664 
+" style="fill: none; stroke: #dce5ee; stroke-width: 1.2; stroke-linecap: round"/>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 21px; font-family: 'Heiti TC'; text-anchor: start; fill: #20354b" x="53.568" y="46.284" transform="rotate(-0 53.568 46.284)">12  多次散射的局部源项</text>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 12.5px; font-family: 'Heiti TC'; text-anchor: start; fill: #657b8e" x="53.568" y="73.246" transform="rotate(-0 53.568 73.246)">把各方向的上一阶入射辐亮度汇总，再发生一次散射。</text>
+  </g>
+  <g id="text_12">
+   <g id="patch_10">
+    <path d="M 795.232 48.206 
+L 839.232 48.206 
+Q 844.182 48.206 844.182 43.256 
+L 844.182 32.256 
+Q 844.182 27.306 839.232 27.306 
+L 795.232 27.306 
+Q 790.282 27.306 790.282 32.256 
+L 790.282 43.256 
+Q 790.282 48.206 795.232 48.206 
+z
+" style="fill: #f3f7fb"/>
+   </g>
+   <text style="font-size: 11px; font-family: 'Heiti TC'; text-anchor: end; fill: #286da8" x="839.232" y="41.716" transform="rotate(-0 839.232 41.716)">递推物理</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 11.5px; font-family: 'Heiti TC'; text-anchor: start; fill: #657b8e" x="53.568" y="478.702" transform="rotate(-0 53.568 478.702)">阶次按散射或反射事件计数：地面反射增加一阶，Q 处的体积散射再增加一阶。</text>
+  </g>
+  <g id="text_14">
+   <g id="patch_11">
+    <path d="M 264.6975 448.52 
+L 628.1025 448.52 
+Q 637.7025 448.52 637.7025 438.92 
+L 637.7025 422.92 
+Q 637.7025 413.32 628.1025 413.32 
+L 264.6975 413.32 
+Q 255.0975 413.32 255.0975 422.92 
+L 255.0975 438.92 
+Q 255.0975 448.52 264.6975 448.52 
+z
+" style="fill: #f3f7fb"/>
+   </g>
+   <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: middle; fill: #20354b" x="446.4" y="436.68" transform="rotate(-0 446.4 436.68)">入射已有 n−1 次事件  +  Q 处再散射一次  =  第 n 阶</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7b98fd019d">
+   <rect x="53.568" y="126" width="464.256" height="246.96"/>
+  </clipPath>
+  <clipPath id="pca061a6e77">
+   <rect x="571.392" y="120.96" width="267.84" height="246.96"/>
+  </clipPath>
+ </defs>
+</svg>

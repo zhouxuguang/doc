@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="366.8pt" viewBox="0 0 684 366.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T00:31:14.029350</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 366.8 
+L 684 366.8 
+L 684 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 30.636 117.248 
+L 195.804 117.248 
+Q 202.5 117.248 202.5 111.5456 
+L 202.5 65.9264 
+Q 202.5 60.224 195.804 60.224 
+L 30.636 60.224 
+Q 23.94 60.224 23.94 65.9264 
+L 23.94 111.5456 
+Q 23.94 117.248 30.636 117.248 
+z
+" clip-path="url(#p93da906b20)" style="fill: #ffffff; stroke: #1766a3; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 30.636 212.288 
+L 195.804 212.288 
+Q 202.5 212.288 202.5 206.5856 
+L 202.5 160.9664 
+Q 202.5 155.264 195.804 155.264 
+L 30.636 155.264 
+Q 23.94 155.264 23.94 160.9664 
+L 23.94 206.5856 
+Q 23.94 212.288 30.636 212.288 
+z
+" clip-path="url(#p93da906b20)" style="fill: #ffffff; stroke: #e89132; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 259.416 164.768 
+L 430.164 164.768 
+Q 436.86 164.768 436.86 159.0656 
+L 436.86 103.9424 
+Q 436.86 98.24 430.164 98.24 
+L 259.416 98.24 
+Q 252.72 98.24 252.72 103.9424 
+L 252.72 159.0656 
+Q 252.72 164.768 259.416 164.768 
+z
+" clip-path="url(#p93da906b20)" style="fill: #ffffff; stroke: #1766a3; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 482.616 164.768 
+L 647.784 164.768 
+Q 654.48 164.768 654.48 159.0656 
+L 654.48 103.9424 
+Q 654.48 98.24 647.784 98.24 
+L 482.616 98.24 
+Q 475.92 98.24 475.92 103.9424 
+L 475.92 159.0656 
+Q 475.92 164.768 482.616 164.768 
+z
+" clip-path="url(#p93da906b20)" style="fill: #ffffff; stroke: #1766a3; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 259.416 293.072 
+L 430.164 293.072 
+Q 436.86 293.072 436.86 287.3696 
+L 436.86 232.2464 
+Q 436.86 226.544 430.164 226.544 
+L 259.416 226.544 
+Q 252.72 226.544 252.72 232.2464 
+L 252.72 287.3696 
+Q 252.72 293.072 259.416 293.072 
+z
+" clip-path="url(#p93da906b20)" style="fill: #ffffff; stroke: #e89132; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <!-- $L^{(n-1)}$ -->
+    <g style="fill: #243e53" transform="translate(95.52 87.416)">
+     <text>
+      <tspan x="0" y="-0.667438" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">L</tspan>
+      <tspan x="7.527734" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">(</tspan>
+      <tspan x="17.765234" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">−</tspan>
+      <tspan x="26.440039" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">1</tspan>
+      <tspan x="31.784375" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">)</tspan>
+      <tspan x="10.804883" y="-5.623438" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">n</tspan>
+     </text>
+    </g>
+    <text style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53" transform="translate(71.22 99.776)">上一阶大气散射</text>
+   </g>
+   <g id="text_2">
+    <!-- $E^{(n-2)}$ -->
+    <g style="fill: #243e53" transform="translate(95.04 182.456)">
+     <text>
+      <tspan x="0" y="-0.667438" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">E</tspan>
+      <tspan x="8.424219" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">(</tspan>
+      <tspan x="18.661719" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">−</tspan>
+      <tspan x="27.336523" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">2</tspan>
+      <tspan x="32.680859" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">)</tspan>
+      <tspan x="11.701367" y="-5.623438" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">n</tspan>
+     </text>
+    </g>
+    <text style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53" transform="translate(47.11875 194.816)">上一轮 delta irradiance</text>
+   </g>
+   <g id="text_3">
+    <!-- $J^{(n)}$ -->
+    <g style="fill: #243e53" transform="translate(336.45 129.764)">
+     <text>
+      <tspan x="0" y="-0.667438" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">J</tspan>
+      <tspan x="4.38125" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">(</tspan>
+      <tspan x="12.982227" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">)</tspan>
+      <tspan x="7.658398" y="-5.623438" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">n</tspan>
+     </text>
+    </g>
+    <text style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53" transform="translate(308.79 142.964)">散射密度积分</text>
+   </g>
+   <g id="text_4">
+    <!-- $L^{(n)}$ -->
+    <g style="fill: #243e53" transform="translate(555.3 130.184)">
+     <text>
+      <tspan x="0" y="-0.667438" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">L</tspan>
+      <tspan x="7.527734" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">(</tspan>
+      <tspan x="16.128711" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">)</tspan>
+      <tspan x="10.804883" y="-5.623438" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">n</tspan>
+     </text>
+    </g>
+    <text style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53" transform="translate(535.2 142.544)">沿射线积分</text>
+   </g>
+   <g id="text_5">
+    <!-- $E^{(n-1)}$ -->
+    <g style="fill: #243e53" transform="translate(326.61 258.488)">
+     <text>
+      <tspan x="0" y="-0.667438" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">E</tspan>
+      <tspan x="8.424219" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">(</tspan>
+      <tspan x="18.661719" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">−</tspan>
+      <tspan x="27.336523" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">1</tspan>
+      <tspan x="32.680859" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">)</tspan>
+      <tspan x="11.701367" y="-5.623438" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243e53">n</tspan>
+     </text>
+    </g>
+    <text style="font-size: 12px; font-family: 'Heiti TC'; fill: #243e53" transform="translate(320.79 270.848)">半球积分</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 198.564642 89.881944 
+Q 227.610158 110.12011 254.637576 128.952117 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 252.071347 124.238895 
+L 254.637576 128.952117 
+L 249.32726 128.177167 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 198.564642 182.630056 
+Q 227.610158 162.39189 254.637576 143.559883 
+" style="fill: none; stroke: #e89132; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 249.32726 144.334833 
+L 254.637576 143.559883 
+L 252.071347 148.273105 
+" style="fill: none; stroke: #e89132; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 433.281566 131.504 
+Q 456.391628 131.504 477.042015 131.504 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 472.242015 129.104 
+L 477.042015 131.504 
+L 472.242015 133.904 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 114.647866 113.899064 
+Q 185.760451 183.776443 255.118613 251.929873 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 253.37702 246.853766 
+L 255.118613 251.929873 
+L 250.012772 250.277483 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Heiti TC'" transform="translate(532.085625 237.944)">写入 delta L</text>
+    <text style="font-size: 12px; font-family: 'Heiti TC'" transform="translate(511.2 250.304)">累计到最终散射纹理</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'Heiti TC'; text-anchor: middle" x="344.79" y="321.584" transform="rotate(-0 344.79 321.584)">写入 delta E；累计到最终天空辐照度纹理</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle" x="342" y="43.592" transform="rotate(-0 342 43.592)">执行顺序：先 J，再 E，最后 L；旧输入读取完成后才覆盖。</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: middle" x="342" y="20.96" transform="rotate(-0 342 20.96)">第 n 阶预计算的依赖与覆盖顺序</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p93da906b20">
+   <rect x="7.2" y="26.96" width="669.6" height="332.64"/>
+  </clipPath>
+ </defs>
+</svg>

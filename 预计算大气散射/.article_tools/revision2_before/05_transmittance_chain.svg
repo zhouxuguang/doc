@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="324.304pt" viewBox="0 0 684 324.304" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T00:31:10.906299</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 324.304 
+L 684 324.304 
+L 684 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <defs>
+     <path id="m26d9c87076" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #243e53"/>
+    </defs>
+    <g clip-path="url(#pa47bde7854)">
+     <use xlink:href="#m26d9c87076" x="37.636364" y="167.2232" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="line2d_2">
+    <g clip-path="url(#pa47bde7854)">
+     <use xlink:href="#m26d9c87076" x="128.945455" y="167.2232" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <g clip-path="url(#pa47bde7854)">
+     <use xlink:href="#m26d9c87076" x="250.690909" y="167.2232" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="41.288727" y="161.69768" transform="rotate(-0 41.288727 161.69768)">P</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="132.597818" y="161.69768" transform="rotate(-0 132.597818 161.69768)">Q</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="254.343273" y="161.69768" transform="rotate(-0 254.343273 161.69768)">I</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 39.634307 167.2232 
+Q 83.290963 167.2232 124.487944 167.2232 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 119.687944 164.8232 
+L 124.487944 167.2232 
+L 119.687944 169.6232 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <!-- $T(P,Q)$ -->
+    <g style="fill: #1766a3" transform="translate(63.490909 157.89248)">
+     <text>
+      <tspan x="0" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">T</tspan>
+      <tspan x="12.011719" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">P</tspan>
+      <tspan x="25.400391" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">Q</tspan>
+      <tspan x="7.330078" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">(</tspan>
+      <tspan x="19.248047" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">,</tspan>
+      <tspan x="34.845703" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1766a3">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 130.948042 167.2232 
+Q 189.820035 167.2232 246.232353 167.2232 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 241.432353 164.8232 
+L 246.232353 167.2232 
+L 241.432353 169.6232 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <!-- $T(Q,I)$ -->
+    <g style="fill: #20a4c0" transform="translate(171.878182 157.89248)">
+     <text>
+      <tspan x="0" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #20a4c0">T</tspan>
+      <tspan x="12.011719" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #20a4c0">Q</tspan>
+      <tspan x="27.609375" y="-0.890625" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #20a4c0">I</tspan>
+      <tspan x="7.330078" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #20a4c0">(</tspan>
+      <tspan x="21.457031" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #20a4c0">,</tspan>
+      <tspan x="31.148438" y="-0.890625" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #20a4c0">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- $T(P,I)=T(P,Q)\,T(Q,I)$ -->
+    <g transform="translate(65.563636 235.2296)">
+     <text>
+      <tspan x="0" y="-0.625" style="font-style: oblique; font-size: 15px; font-family: 'DejaVu Sans'">T</tspan>
+      <tspan x="15.014648" y="-0.625" style="font-style: oblique; font-size: 15px; font-family: 'DejaVu Sans'">P</tspan>
+      <tspan x="31.750488" y="-0.625" style="font-style: oblique; font-size: 15px; font-family: 'DejaVu Sans'">I</tspan>
+      <tspan x="60.439453" y="-0.625" style="font-style: oblique; font-size: 15px; font-family: 'DejaVu Sans'">T</tspan>
+      <tspan x="75.454102" y="-0.625" style="font-style: oblique; font-size: 15px; font-family: 'DejaVu Sans'">P</tspan>
+      <tspan x="92.189941" y="-0.625" style="font-style: oblique; font-size: 15px; font-family: 'DejaVu Sans'">Q</tspan>
+      <tspan x="112.283984" y="-0.625" style="font-style: oblique; font-size: 15px; font-family: 'DejaVu Sans'">T</tspan>
+      <tspan x="127.298633" y="-0.625" style="font-style: oblique; font-size: 15px; font-family: 'DejaVu Sans'">Q</tspan>
+      <tspan x="146.795703" y="-0.625" style="font-style: oblique; font-size: 15px; font-family: 'DejaVu Sans'">I</tspan>
+      <tspan x="9.162598" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="24.060059" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">,</tspan>
+      <tspan x="36.174316" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">)</tspan>
+      <tspan x="44.94873" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">=</tspan>
+      <tspan x="69.602051" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="84.499512" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">,</tspan>
+      <tspan x="103.996582" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">)</tspan>
+      <tspan x="121.446582" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="139.105273" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">,</tspan>
+      <tspan x="151.219531" y="-0.625" style="font-size: 15px; font-family: 'DejaVu Sans'">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle" x="144.163636" y="264.9824" transform="rotate(-0 144.163636 264.9824)">同一直线、相邻线段、无实体遮挡</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: middle" x="159.381818" y="20.96" transform="rotate(-0 159.381818 20.96)">分段透射率</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 372.436364 281.984 
+L 676.8 281.984 
+L 676.8 26.96 
+L 372.436364 26.96 
+z
+" style="fill: #f7fafc"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_4">
+      <path d="M 386.271074 281.984 
+L 386.271074 26.96 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_5">
+      <defs>
+       <path id="mb263183edc" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mb263183edc" x="386.271074" y="281.984" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle" x="386.271074" y="299.304" transform="rotate(-0 386.271074 299.304)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_6">
+      <path d="M 455.444628 281.984 
+L 455.444628 26.96 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mb263183edc" x="455.444628" y="281.984" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle" x="455.444628" y="299.304" transform="rotate(-0 455.444628 299.304)">2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_8">
+      <path d="M 524.618182 281.984 
+L 524.618182 26.96 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#mb263183edc" x="524.618182" y="281.984" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle" x="524.618182" y="299.304" transform="rotate(-0 524.618182 299.304)">4</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_10">
+      <path d="M 593.791736 281.984 
+L 593.791736 26.96 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mb263183edc" x="593.791736" y="281.984" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle" x="593.791736" y="299.304" transform="rotate(-0 593.791736 299.304)">6</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_12">
+      <path d="M 662.965289 281.984 
+L 662.965289 26.96 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mb263183edc" x="662.965289" y="281.984" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle" x="662.965289" y="299.304" transform="rotate(-0 662.965289 299.304)">8</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <!-- 无量纲光学厚度 $\tau_\lambda$ -->
+     <g transform="translate(474.818182 315.304)">
+      <text>
+       <tspan x="0" y="-0.328125" style="font-size: 12px; font-family: 'Heiti TC'">无</tspan>
+       <tspan x="12.000092" y="-0.328125" style="font-size: 12px; font-family: 'Heiti TC'">量</tspan>
+       <tspan x="24.000183" y="-0.328125" style="font-size: 12px; font-family: 'Heiti TC'">纲</tspan>
+       <tspan x="36.000275" y="-0.328125" style="font-size: 12px; font-family: 'Heiti TC'">光</tspan>
+       <tspan x="48.000366" y="-0.328125" style="font-size: 12px; font-family: 'Heiti TC'">学</tspan>
+       <tspan x="60.000458" y="-0.328125" style="font-size: 12px; font-family: 'Heiti TC'">厚</tspan>
+       <tspan x="72.000549" y="-0.328125" style="font-size: 12px; font-family: 'Heiti TC'">度</tspan>
+       <tspan x="84.000641" y="-0.328125" style="font-size: 12px; font-family: 'Heiti TC'"> </tspan>
+       <tspan x="87.000656" y="-0.328125" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">τ</tspan>
+       <tspan x="94.225266" y="1.471869" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'">λ</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_14">
+      <path d="M 372.436364 270.4698 
+L 676.8 270.4698 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15">
+      <defs>
+       <path id="m35f66fa525" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m35f66fa525" x="372.436364" y="270.4698" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: end" x="365.436364" y="275.6298" transform="rotate(-0 365.436364 275.6298)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_16">
+      <path d="M 372.436364 224.08624 
+L 676.8 224.08624 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m35f66fa525" x="372.436364" y="224.08624" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: end" x="365.436364" y="229.24624" transform="rotate(-0 365.436364 229.24624)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_18">
+      <path d="M 372.436364 177.70268 
+L 676.8 177.70268 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m35f66fa525" x="372.436364" y="177.70268" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: end" x="365.436364" y="182.86268" transform="rotate(-0 365.436364 182.86268)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_20">
+      <path d="M 372.436364 131.31912 
+L 676.8 131.31912 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m35f66fa525" x="372.436364" y="131.31912" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: end" x="365.436364" y="136.47912" transform="rotate(-0 365.436364 136.47912)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_22">
+      <path d="M 372.436364 84.93556 
+L 676.8 84.93556 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m35f66fa525" x="372.436364" y="84.93556" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: end" x="365.436364" y="90.09556" transform="rotate(-0 365.436364 90.09556)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_24">
+      <path d="M 372.436364 38.552 
+L 676.8 38.552 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #dce5ee; stroke-opacity: 0.65; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m35f66fa525" x="372.436364" y="38.552" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: end" x="365.436364" y="43.712" transform="rotate(-0 365.436364 43.712)">1.0</text>
+     </g>
+    </g>
+    <g id="text_21">
+     <!-- $T_\lambda=e^{-\tau_\lambda}$ -->
+     <g transform="translate(343.014489 180.212) rotate(-90)">
+      <text>
+       <tspan x="0" y="-0.45025" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">T</tspan>
+       <tspan x="27.359766" y="-0.45025" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">e</tspan>
+       <tspan x="7.330078" y="1.349744" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'">λ</tspan>
+       <tspan x="42.338672" y="-5.40625" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'">τ</tspan>
+       <tspan x="14.967187" y="-0.45025" style="font-size: 12px; font-family: 'DejaVu Sans'">=</tspan>
+       <tspan x="35.300391" y="-5.40625" style="font-size: 8.4px; font-family: 'DejaVu Sans'">−</tspan>
+       <tspan x="47.395898" y="-4.146254" style="font-style: oblique; font-size: 5.88px; font-family: 'DejaVu Sans'">λ</tspan>
+      </text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_26">
+    <path d="M 386.271074 38.552 
+L 389.044951 56.425608 
+L 391.818828 72.92172 
+L 394.592705 88.146498 
+L 397.366582 102.197922 
+L 400.140459 115.16642 
+L 402.914335 127.135453 
+L 405.688212 138.182048 
+L 408.462089 148.377296 
+L 411.235966 157.786809 
+L 414.009843 166.471143 
+L 416.78372 174.486186 
+L 419.557596 181.883521 
+L 422.331473 188.710752 
+L 425.10535 195.011817 
+L 427.879227 200.827267 
+L 430.653104 206.194528 
+L 433.426981 211.148141 
+L 436.200858 215.719986 
+L 438.974734 219.939484 
+L 442.44208 224.759537 
+L 445.909426 229.119808 
+L 449.376773 233.064156 
+L 452.844119 236.632255 
+L 456.311465 239.859996 
+L 459.778811 242.779845 
+L 463.246157 245.421171 
+L 466.713503 247.810543 
+L 470.874318 250.378885 
+L 475.035133 252.656115 
+L 479.195949 254.67523 
+L 483.356764 256.465485 
+L 488.211048 258.299305 
+L 493.065333 259.892992 
+L 498.613086 261.460452 
+L 504.16084 262.795618 
+L 510.402063 264.062675 
+L 517.336755 265.226719 
+L 524.964916 266.264448 
+L 533.286547 267.163742 
+L 542.995116 267.972888 
+L 554.090623 268.658123 
+L 567.266538 269.232043 
+L 583.21633 269.689325 
+L 603.326937 270.033448 
+L 631.759175 270.278011 
+L 662.965289 270.392 
+L 662.965289 270.392 
+" clip-path="url(#p12d92fc2f5)" style="fill: none; stroke: #1766a3; stroke-width: 2.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 372.436364 281.984 
+L 372.436364 26.96 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 372.436364 281.984 
+L 676.8 281.984 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: middle" x="524.618182" y="20.96" transform="rotate(-0 524.618182 20.96)">消光造成的指数衰减</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa47bde7854">
+   <rect x="7.2" y="26.96" width="304.363636" height="255.024"/>
+  </clipPath>
+  <clipPath id="p12d92fc2f5">
+   <rect x="372.436364" y="26.96" width="304.363636" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>

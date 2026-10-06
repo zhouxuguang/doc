@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="686.864531pt" height="327.992pt" viewBox="0 0 686.864531 327.992" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T00:31:13.452995</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.992 
+L 686.864531 327.992 
+L 686.864531 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 43.544531 213.0536 
+L 116.782031 213.0536 
+L 116.782031 105.3152 
+L 43.544531 105.3152 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #d3e4f3; stroke: #1766a3; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 116.782031 213.0536 
+L 190.019531 213.0536 
+L 190.019531 105.3152 
+L 116.782031 105.3152 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #c8dcf0; stroke: #1766a3; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 190.019531 213.0536 
+L 263.257031 213.0536 
+L 263.257031 105.3152 
+L 190.019531 105.3152 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #b7d4ea; stroke: #1766a3; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 263.257031 213.0536 
+L 336.494531 213.0536 
+L 336.494531 105.3152 
+L 263.257031 105.3152 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #a3cce3; stroke: #1766a3; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 336.494531 213.0536 
+L 409.732031 213.0536 
+L 409.732031 105.3152 
+L 336.494531 105.3152 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #8cc0dd; stroke: #1766a3; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 409.732031 213.0536 
+L 482.969531 213.0536 
+L 482.969531 105.3152 
+L 409.732031 105.3152 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #74b3d8; stroke: #1766a3; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 482.969531 213.0536 
+L 556.207031 213.0536 
+L 556.207031 105.3152 
+L 482.969531 105.3152 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #5da5d1; stroke: #1766a3; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 556.207031 213.0536 
+L 629.444531 213.0536 
+L 629.444531 105.3152 
+L 556.207031 105.3152 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #4a98c9; stroke: #1766a3; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 94.601531 313.4462 
+L 268.697531 313.4462 
+Q 273.719531 313.4462 273.719531 307.56956 
+L 273.719531 272.79944 
+Q 273.719531 266.9228 268.697531 266.9228 
+L 94.601531 266.9228 
+Q 89.579531 266.9228 89.579531 272.79944 
+L 89.579531 307.56956 
+Q 89.579531 313.4462 94.601531 313.4462 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #ffffff; stroke: #1766a3; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 345.701531 313.4462 
+L 565.832531 313.4462 
+Q 570.854531 313.4462 570.854531 307.56956 
+L 570.854531 272.79944 
+Q 570.854531 266.9228 565.832531 266.9228 
+L 345.701531 266.9228 
+Q 340.679531 266.9228 340.679531 272.79944 
+L 340.679531 307.56956 
+Q 340.679531 313.4462 345.701531 313.4462 
+z
+" clip-path="url(#p5c29126fc6)" style="fill: #ffffff; stroke: #e89132; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <!-- $\nu_0$ -->
+    <g transform="translate(73.923281 93.0722)">
+     <text>
+      <tspan x="0" y="-0.4375" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">ν</tspan>
+      <tspan x="6.703125" y="1.362494" style="font-size: 8.4px; font-family: 'DejaVu Sans'">0</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'Heiti TC'" transform="translate(68.372656 148.8844)">32 个</text>
+    <!-- $\mu_s$ 样本 -->
+    <g transform="translate(63.763281 159.1844)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">μ</tspan>
+      <tspan x="6.362305" y="0.67187" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.282715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'"> </tspan>
+      <tspan x="12.782715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">样</tspan>
+      <tspan x="22.7827" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">本</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- $\nu_1$ -->
+    <g transform="translate(147.160781 93.0722)">
+     <text>
+      <tspan x="0" y="-0.4375" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">ν</tspan>
+      <tspan x="6.703125" y="1.362494" style="font-size: 8.4px; font-family: 'DejaVu Sans'">1</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'Heiti TC'" transform="translate(141.610156 148.8844)">32 个</text>
+    <!-- $\mu_s$ 样本 -->
+    <g transform="translate(137.000781 159.1844)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">μ</tspan>
+      <tspan x="6.362305" y="0.67187" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.282715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'"> </tspan>
+      <tspan x="12.782715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">样</tspan>
+      <tspan x="22.7827" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">本</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- $\nu_2$ -->
+    <g transform="translate(220.398281 93.0722)">
+     <text>
+      <tspan x="0" y="-0.4375" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">ν</tspan>
+      <tspan x="6.703125" y="1.362494" style="font-size: 8.4px; font-family: 'DejaVu Sans'">2</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'Heiti TC'" transform="translate(214.847656 148.8844)">32 个</text>
+    <!-- $\mu_s$ 样本 -->
+    <g transform="translate(210.238281 159.1844)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">μ</tspan>
+      <tspan x="6.362305" y="0.67187" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.282715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'"> </tspan>
+      <tspan x="12.782715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">样</tspan>
+      <tspan x="22.7827" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">本</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- $\nu_3$ -->
+    <g transform="translate(293.635781 93.0722)">
+     <text>
+      <tspan x="0" y="-0.4375" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">ν</tspan>
+      <tspan x="6.703125" y="1.362494" style="font-size: 8.4px; font-family: 'DejaVu Sans'">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'Heiti TC'" transform="translate(288.085156 148.8844)">32 个</text>
+    <!-- $\mu_s$ 样本 -->
+    <g transform="translate(283.475781 159.1844)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">μ</tspan>
+      <tspan x="6.362305" y="0.67187" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.282715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'"> </tspan>
+      <tspan x="12.782715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">样</tspan>
+      <tspan x="22.7827" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">本</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- $\nu_4$ -->
+    <g transform="translate(366.873281 93.0722)">
+     <text>
+      <tspan x="0" y="-0.4375" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">ν</tspan>
+      <tspan x="6.703125" y="1.362494" style="font-size: 8.4px; font-family: 'DejaVu Sans'">4</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Heiti TC'" transform="translate(361.322656 148.8844)">32 个</text>
+    <!-- $\mu_s$ 样本 -->
+    <g transform="translate(356.713281 159.1844)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">μ</tspan>
+      <tspan x="6.362305" y="0.67187" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.282715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'"> </tspan>
+      <tspan x="12.782715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">样</tspan>
+      <tspan x="22.7827" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">本</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_11">
+    <!-- $\nu_5$ -->
+    <g transform="translate(440.110781 93.0722)">
+     <text>
+      <tspan x="0" y="-0.4375" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">ν</tspan>
+      <tspan x="6.703125" y="1.362494" style="font-size: 8.4px; font-family: 'DejaVu Sans'">5</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Heiti TC'" transform="translate(434.560156 148.8844)">32 个</text>
+    <!-- $\mu_s$ 样本 -->
+    <g transform="translate(429.950781 159.1844)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">μ</tspan>
+      <tspan x="6.362305" y="0.67187" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.282715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'"> </tspan>
+      <tspan x="12.782715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">样</tspan>
+      <tspan x="22.7827" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">本</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- $\nu_6$ -->
+    <g transform="translate(513.348281 93.0722)">
+     <text>
+      <tspan x="0" y="-0.4375" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">ν</tspan>
+      <tspan x="6.703125" y="1.362494" style="font-size: 8.4px; font-family: 'DejaVu Sans'">6</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Heiti TC'" transform="translate(507.797656 148.8844)">32 个</text>
+    <!-- $\mu_s$ 样本 -->
+    <g transform="translate(503.188281 159.1844)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">μ</tspan>
+      <tspan x="6.362305" y="0.67187" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.282715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'"> </tspan>
+      <tspan x="12.782715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">样</tspan>
+      <tspan x="22.7827" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">本</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- $\nu_7$ -->
+    <g transform="translate(586.585781 93.0722)">
+     <text>
+      <tspan x="0" y="-0.4375" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">ν</tspan>
+      <tspan x="6.703125" y="1.362494" style="font-size: 8.4px; font-family: 'DejaVu Sans'">7</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Heiti TC'" transform="translate(581.035156 148.8844)">32 个</text>
+    <!-- $\mu_s$ 样本 -->
+    <g transform="translate(576.425781 159.1844)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: oblique; font-size: 10px; font-family: 'DejaVu Sans'">μ</tspan>
+      <tspan x="6.362305" y="0.67187" style="font-style: oblique; font-size: 7px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="10.282715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'"> </tspan>
+      <tspan x="12.782715" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">样</tspan>
+      <tspan x="22.7827" y="-0.828125" style="font-size: 10px; font-family: 'Heiti TC'">本</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'Heiti TC'" transform="translate(7.2 147.8544)">128</text>
+    <!-- $\mu$ -->
+    <g transform="translate(12.822031 159.1844)">
+     <text>
+      <tspan x="0" y="-0.984375" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">μ</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_12">
+    <path d="M 45.542649 242.4368 
+Q 336.493484 242.4368 624.984643 242.4368 
+" style="fill: none; stroke: #243e53; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 620.184643 240.0368 
+L 624.984643 242.4368 
+L 620.184643 244.8368 
+" style="fill: none; stroke: #243e53; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle; fill: #243e53" x="336.494531" y="235.8596" transform="rotate(-0 336.494531 235.8596)">宽度：8 × 32 = 256</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle; fill: #243e53" x="181.649531" y="294.5045" transform="rotate(-0 181.649531 294.5045)">硬件：每个 ν 切片内三线性插值</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle; fill: #243e53" x="455.767031" y="294.5045" transform="rotate(-0 455.767031 294.5045)">软件：相邻两个 ν 切片再线性插值</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle" x="344.864531" y="48.9974" transform="rotate(-0 344.864531 48.9974)">深度：32 个 r 层；图示为其中一层</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: middle" x="344.864531" y="20.96" transform="rotate(-0 344.864531 20.96)">四维函数打包进 256 × 128 × 32 三维纹理</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5c29126fc6">
+   <rect x="10.064531" y="26.96" width="669.6" height="293.832"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="504pt" viewBox="0 0 892.8 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T10:31:31.874008</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 504 
+L 892.8 504 
+L 892.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 267.84 413.28 
+C 303.928838 413.28 338.544429 398.941753 364.063091 373.423091 
+C 389.581753 347.904429 403.92 313.288838 403.92 277.2 
+C 403.92 241.111162 389.581753 206.495571 364.063091 180.976909 
+C 338.544429 155.458247 303.928838 141.12 267.84 141.12 
+C 231.751162 141.12 197.135571 155.458247 171.616909 180.976909 
+C 146.098247 206.495571 131.76 241.111162 131.76 277.2 
+C 131.76 313.288838 146.098247 347.904429 171.616909 373.423091 
+C 197.135571 398.941753 231.751162 413.28 267.84 413.28 
+z
+" clip-path="url(#pf9d89c1468)" style="fill: #eaf5fa; stroke: #2297ad; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 267.84 378 
+C 294.572472 378 320.213651 367.379076 339.116364 348.476364 
+C 358.019076 329.573651 368.64 303.932472 368.64 277.2 
+C 368.64 250.467528 358.019076 224.826349 339.116364 205.923636 
+C 320.213651 187.020924 294.572472 176.4 267.84 176.4 
+C 241.107528 176.4 215.466349 187.020924 196.563636 205.923636 
+C 177.660924 224.826349 167.04 250.467528 167.04 277.2 
+C 167.04 303.932472 177.660924 329.573651 196.563636 348.476364 
+C 215.466349 367.379076 241.107528 378 267.84 378 
+z
+" clip-path="url(#pf9d89c1468)" style="fill: #e4eee8; stroke: #518772; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 269.723869 159.588247 
+Q 286.801846 153.389769 301.567728 148.030469 
+" style="fill: none; stroke: #286da8; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 295.34844 147.309046 
+L 301.567728 148.030469 
+L 297.259017 152.573046 
+" style="fill: none; stroke: #286da8; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 268.940282 161.942757 
+Q 273.348716 168.636882 276.40433 173.276774 
+" style="fill: none; stroke: #c25a60; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 275.662791 167.059852 
+L 276.40433 173.276774 
+L 270.985869 170.139852 
+" style="fill: none; stroke: #c25a60; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 269.564343 161.285702 
+Q 332.785994 198.452291 393.887236 234.372339 
+" style="fill: none; stroke-dasharray: 8.14,3.52; stroke-dashoffset: 0; stroke: #d68a31; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 390.478664 229.120516 
+L 393.887236 234.372339 
+L 387.640635 233.948102 
+" style="fill: none; stroke-dasharray: 8.14,3.52; stroke-dashoffset: 0; stroke: #d68a31; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 267.84 275.19815 
+Q 267.84 218.7364 267.84 164.063504 
+" style="fill: none; stroke: #20354b; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 265.04 169.663504 
+L 267.84 164.063504 
+L 270.64 169.663504 
+" style="fill: none; stroke: #20354b; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <!-- $r$ -->
+    <g style="fill: #20354b" transform="translate(251.13 225.864)">
+     <text>
+      <tspan x="0" y="-0.5" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">r</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_8">
+    <path d="M 266.097749 278.187276 
+Q 223.990432 302.048089 183.050373 325.247455 
+" style="fill: none; stroke: #518772; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 189.302932 324.922647 
+L 183.050373 325.247455 
+L 186.542062 320.050523 
+" style="fill: none; stroke: #518772; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <!-- $r_b$ -->
+    <g style="fill: #518772" transform="translate(211.733 296.254)">
+     <text>
+      <tspan x="0" y="-0.5" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #518772">r</tspan>
+      <tspan x="6.612991" y="2.05" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #518772">b</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_9">
+    <path d="M 266.064434 276.285583 
+Q 207.361517 246.053581 149.851359 216.43585 
+" style="fill: none; stroke: #2297ad; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 153.547943 221.489093 
+L 149.851359 216.43585 
+L 156.111904 216.510528 
+" style="fill: none; stroke: #2297ad; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <!-- $r_t$ -->
+    <g style="fill: #2297ad" transform="translate(182.853 224.686)">
+     <text>
+      <tspan x="0" y="-0.5" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #2297ad">r</tspan>
+      <tspan x="6.612991" y="2.05" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #2297ad">t</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 14px; font-family: 'Heiti TC'; text-anchor: middle; fill: #20354b" x="277.92" y="300.384" transform="rotate(-0 277.92 300.384)">O</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 14px; font-family: 'Heiti TC'; text-anchor: middle; fill: #20354b" x="255.744" y="131.04" transform="rotate(-0 255.744 131.04)">P</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 14px; font-family: 'Heiti TC'; text-anchor: middle; fill: #286da8" x="314.83007" y="144.493578" transform="rotate(-0 314.83007 144.493578)">I</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 14px; font-family: 'Heiti TC'; text-anchor: middle; fill: #c25a60" x="279.866957" y="209.260079" transform="rotate(-0 279.866957 209.260079)">G</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 14px; font-family: 'Heiti TC'; text-anchor: middle; fill: #d68a31" x="335.052531" y="214.495448" transform="rotate(-0 335.052531 214.495448)">K</text>
+   </g>
+   <g id="line2d_1">
+    <defs>
+     <path id="m8ae1711293" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #20354b"/>
+    </defs>
+    <g clip-path="url(#pf9d89c1468)">
+     <use xlink:href="#m8ae1711293" x="267.84" y="277.2" style="fill: #20354b; stroke: #20354b"/>
+    </g>
+   </g>
+   <g id="line2d_2">
+    <g clip-path="url(#pf9d89c1468)">
+     <use xlink:href="#m8ae1711293" x="267.84" y="160.272" style="fill: #20354b; stroke: #20354b"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <defs>
+     <path id="me6feb71b07" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #286da8"/>
+    </defs>
+    <g clip-path="url(#pf9d89c1468)">
+     <use xlink:href="#me6feb71b07" x="305.75807" y="146.509578" style="fill: #286da8; stroke: #286da8"/>
+    </g>
+   </g>
+   <g id="line2d_4">
+    <defs>
+     <path id="m75c074dfd2" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #c25a60"/>
+    </defs>
+    <g clip-path="url(#pf9d89c1468)">
+     <use xlink:href="#m75c074dfd2" x="278.858957" y="177.004079" style="fill: #c25a60; stroke: #c25a60"/>
+    </g>
+   </g>
+   <g id="line2d_5">
+    <defs>
+     <path id="m980677ab32" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #d68a31"/>
+    </defs>
+    <g clip-path="url(#pf9d89c1468)">
+     <use xlink:href="#m980677ab32" x="318.924531" y="190.303448" style="fill: #d68a31; stroke: #d68a31"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_10">
+    <path d="M 535.50144 199.0128 
+L 824.85792 199.0128 
+Q 831.10752 199.0128 831.10752 194.0568 
+L 831.10752 125.664 
+Q 831.10752 120.708 824.85792 120.708 
+L 535.50144 120.708 
+Q 529.25184 120.708 529.25184 125.664 
+L 529.25184 194.0568 
+Q 529.25184 199.0128 535.50144 199.0128 
+z
+" clip-path="url(#p1e5f44ba39)" style="fill: #f3f7fb; stroke: #dce5ee; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 535.50144 295.1592 
+L 824.85792 295.1592 
+Q 831.10752 295.1592 831.10752 290.2032 
+L 831.10752 221.8104 
+Q 831.10752 216.8544 824.85792 216.8544 
+L 535.50144 216.8544 
+Q 529.25184 216.8544 529.25184 221.8104 
+L 529.25184 290.2032 
+Q 529.25184 295.1592 535.50144 295.1592 
+z
+" clip-path="url(#p1e5f44ba39)" style="fill: #f3f7fb; stroke: #dce5ee; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 535.50144 391.3056 
+L 824.85792 391.3056 
+Q 831.10752 391.3056 831.10752 386.3496 
+L 831.10752 317.9568 
+Q 831.10752 313.0008 824.85792 313.0008 
+L 535.50144 313.0008 
+Q 529.25184 313.0008 529.25184 317.9568 
+L 529.25184 386.3496 
+Q 529.25184 391.3056 535.50144 391.3056 
+z
+" clip-path="url(#p1e5f44ba39)" style="fill: #f3f7fb; stroke: #dce5ee; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 540.50112 187.614 
+L 540.50112 132.1068 
+" clip-path="url(#p1e5f44ba39)" style="fill: none; stroke: #286da8; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 540.50112 283.7604 
+L 540.50112 228.2532 
+" clip-path="url(#p1e5f44ba39)" style="fill: none; stroke: #c25a60; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 540.50112 379.9068 
+L 540.50112 324.3996 
+" clip-path="url(#p1e5f44ba39)" style="fill: none; stroke: #d68a31; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 13px; font-family: 'Heiti TC'; text-anchor: start; fill: #286da8" x="553.00032" y="148.1856" transform="rotate(-0 553.00032 148.1856)">I · 大气顶边界</text>
+   </g>
+   <g id="text_10">
+    <!-- $d_t$: 沿射线到 $r_t$ 球面的距离 -->
+    <g style="fill: #20354b" transform="translate(553.00032 179.5968)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: italic; font-size: 12.5px; font-family: 'STIXGeneral'; fill: #20354b">d</tspan>
+      <tspan x="68.957758" y="-0.828125" style="font-style: italic; font-size: 12.5px; font-family: 'STIXGeneral'; fill: #20354b">r</tspan>
+      <tspan x="6.250031" y="1.046875" style="font-style: italic; font-size: 8.75px; font-family: 'STIXGeneral'; fill: #20354b">t</tspan>
+      <tspan x="73.820276" y="1.046875" style="font-style: italic; font-size: 8.75px; font-family: 'STIXGeneral'; fill: #20354b">t</tspan>
+      <tspan x="9.245035" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">:</tspan>
+      <tspan x="12.707544" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b"> </tspan>
+      <tspan x="15.832559" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">沿</tspan>
+      <tspan x="28.332605" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">射</tspan>
+      <tspan x="40.832651" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">线</tspan>
+      <tspan x="53.332697" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">到</tspan>
+      <tspan x="65.832742" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b"> </tspan>
+      <tspan x="76.81528" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b"> </tspan>
+      <tspan x="79.940295" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">球</tspan>
+      <tspan x="92.440341" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">面</tspan>
+      <tspan x="104.940387" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">的</tspan>
+      <tspan x="117.440433" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">距</tspan>
+      <tspan x="129.940479" y="-0.828125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">离</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 13px; font-family: 'Heiti TC'; text-anchor: start; fill: #c25a60" x="553.00032" y="244.332" transform="rotate(-0 553.00032 244.332)">G · 地面边界</text>
+   </g>
+   <g id="text_12">
+    <!-- $d_b$: 射线首先到达地表 -->
+    <g style="fill: #20354b" transform="translate(553.00032 275.7432)">
+     <text>
+      <tspan x="0" y="-0.78125" style="font-style: italic; font-size: 12.5px; font-family: 'STIXGeneral'; fill: #20354b">d</tspan>
+      <tspan x="6.250031" y="1.09375" style="font-style: italic; font-size: 8.75px; font-family: 'STIXGeneral'; fill: #20354b">b</tspan>
+      <tspan x="11.187552" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">:</tspan>
+      <tspan x="14.650061" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b"> </tspan>
+      <tspan x="17.775076" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">射</tspan>
+      <tspan x="30.275122" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">线</tspan>
+      <tspan x="42.775168" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">首</tspan>
+      <tspan x="55.275214" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">先</tspan>
+      <tspan x="67.775259" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">到</tspan>
+      <tspan x="80.275305" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">达</tspan>
+      <tspan x="92.775351" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">地</tspan>
+      <tspan x="105.275397" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #20354b">表</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 13px; font-family: 'Heiti TC'; text-anchor: start; fill: #d68a31" x="553.00032" y="340.4784" transform="rotate(-0 553.00032 340.4784)">K · 地表切点</text>
+   </g>
+   <g id="text_14">
+    <!-- $\mu_h=-\sqrt{1-r_b^2/r^2}$ -->
+    <g style="fill: #20354b" transform="translate(553.00032 375.6696)">
+     <text>
+      <tspan x="0" y="-0.638687" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">μ</tspan>
+      <tspan x="89.598437" y="-0.877437" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">r</tspan>
+      <tspan x="108.6919" y="-0.877437" style="font-style: italic; font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">r</tspan>
+      <tspan x="8.941986" y="1.911313" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">h</tspan>
+      <tspan x="96.211428" y="4.478125" style="font-style: italic; font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">b</tspan>
+      <tspan x="19.056975" y="-0.638687" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">=</tspan>
+      <tspan x="34.101949" y="-0.638687" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">−</tspan>
+      <tspan x="62.653478" y="-0.877437" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">1</tspan>
+      <tspan x="74.553463" y="-0.877437" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">−</tspan>
+      <tspan x="103.965917" y="-0.877437" style="font-size: 17px; font-family: 'STIXGeneral'; fill: #20354b">/</tspan>
+      <tspan x="45.746923" y="0.723125" style="font-size: 13.997512px; font-family: 'STIXSizeOneSym'; fill: #20354b">√</tspan>
+      <tspan x="97.250928" y="-7.898438" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">2</tspan>
+      <tspan x="116.344391" y="-7.898438" style="font-size: 11.9px; font-family: 'STIXGeneral'; fill: #20354b">2</tspan>
+     </text>
+     <rect x="60.528478" y="-21.9375" width="64.655902" height="1.0625"/>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_9">
+   <path d="M 53.568 83.664 
+L 839.232 83.664 
+" style="fill: none; stroke: #dce5ee; stroke-width: 1.2; stroke-linecap: round"/>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 21px; font-family: 'Heiti TC'; text-anchor: start; fill: #20354b" x="53.568" y="46.284" transform="rotate(-0 53.568 46.284)">02  球形大气壳与边界交点</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 12.5px; font-family: 'Heiti TC'; text-anchor: start; fill: #657b8e" x="53.568" y="73.246" transform="rotate(-0 53.568 73.246)">同一条射线的边界类型，由半径和局部方向共同决定。</text>
+  </g>
+  <g id="text_17">
+   <g id="patch_13">
+    <path d="M 817.232 48.206 
+L 839.232 48.206 
+Q 844.182 48.206 844.182 43.256 
+L 844.182 32.256 
+Q 844.182 27.306 839.232 27.306 
+L 817.232 27.306 
+Q 812.282 27.306 812.282 32.256 
+L 812.282 43.256 
+Q 812.282 48.206 817.232 48.206 
+z
+" style="fill: #f3f7fb"/>
+   </g>
+   <text style="font-size: 11px; font-family: 'Heiti TC'; text-anchor: end; fill: #286da8" x="839.232" y="41.716" transform="rotate(-0 839.232 41.716)">几何</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 11.5px; font-family: 'Heiti TC'; text-anchor: start; fill: #657b8e" x="53.568" y="478.702" transform="rotate(-0 53.568 478.702)">大气厚度按示意需要放大；地球预设的大气厚度约为地表半径的 1%。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf9d89c1468">
+   <rect x="111.6" y="110.88" width="312.48" height="302.4"/>
+  </clipPath>
+  <clipPath id="p1e5f44ba39">
+   <rect x="526.752" y="105.84" width="312.48" height="297.36"/>
+  </clipPath>
+ </defs>
+</svg>

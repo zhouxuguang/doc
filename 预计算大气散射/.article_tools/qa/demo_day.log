@@ -1,0 +1,176 @@
+[2026-10-05 23:40:44.714][BuildSetting.cpp:ConfigSynchronizer:28][INFO]Reverse-Z: BuildSetting=1, DepthConfig=1, ShaderConfig=1
+AssetManager initialized with root: /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/
+2026-10-05 23:40:46.250 atmosphere_capture[35890:5066921] metal shader error program_source:130:5: error: variables in the threadgroup address space cannot be declared in a fragment function
+    threadgroup TerrainPayload terrainPayload;
+    ^
+[2026-10-05 23:40:44.982][MTLPipelineCache.mm:Initialize:102][INFO]MTLPipelineCache: created empty archive in CAPTURE mode
+[2026-10-05 23:40:44.991][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/PostProcessShader.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:44.991][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/PostProcessShader.msl_macos.gnxasset (500 bytes)
+[2026-10-05 23:40:44.991][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/PostProcessShader.msl_macos.gnxasset (5447 bytes)
+[2026-10-05 23:40:45.253][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/DepthGenerate.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:45.253][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/DepthGenerate.msl_macos.gnxasset (1005 bytes)
+[2026-10-05 23:40:45.253][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/DepthGenerate.msl_macos.gnxasset (988 bytes)
+[2026-10-05 23:40:45.495][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SkinnedDepthGenerate.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:45.495][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SkinnedDepthGenerate.msl_macos.gnxasset (2410 bytes)
+[2026-10-05 23:40:45.495][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SkinnedDepthGenerate.msl_macos.gnxasset (988 bytes)
+[2026-10-05 23:40:45.817][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainDepth.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:45.817][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainDepth.msl_macos.gnxasset (1879 bytes)
+[2026-10-05 23:40:45.817][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainDepth.msl_macos.gnxasset (1355 bytes)
+[2026-10-05 23:40:45.956][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMSDepth.msl_macos.gnxasset (3 stages, format 2)
+[2026-10-05 23:40:45.956][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMSDepth.msl_macos.gnxasset (2474 bytes)
+[2026-10-05 23:40:45.956][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 3 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMSDepth.msl_macos.gnxasset (4470 bytes)
+[2026-10-05 23:40:45.956][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 4 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMSDepth.msl_macos.gnxasset (13049 bytes)
+[2026-10-05 23:40:46.251][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/DepthGenerate.ms2026-10-05 23:40:46.290 atmosphere_capture[35890:5066921] metal shader error program_source:130:5: error: variables in the threadgroup address space cannot be declared in a fragment function
+    threadgroup TerrainPayload terrainPayload;
+    ^
+l_macos.gnxasset (1005 bytes)
+[2026-10-05 23:40:46.251][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/DepthGenerate.msl_macos.gnxasset (988 bytes)
+[2026-10-05 23:40:46.251][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SkinnedDepthGenerate.msl_macos.gnxasset (2410 bytes)
+[2026-10-05 23:40:46.251][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SkinnedDepthGenerate.msl_macos.gnxasset (988 bytes)
+[2026-10-05 23:40:46.252][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainDepth.msl_macos.gnxasset (1879 bytes)
+[2026-10-05 23:40:46.252][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainDepth.msl_macos.gnxasset (1355 bytes)
+[2026-10-05 23:40:46.252][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMSDepth.msl_macos.gnxasset (2474 bytes)
+[2026-10-05 23:40:46.252][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 3 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMSDepth.msl_macos.gnxasset (4470 bytes)
+[2026-10-05 23:40:46.252][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 4 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMSDepth.msl_macos.gnxasset (13049 bytes)
+[2026-10-05 23:40:46.291][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/PostProcessShader.msl_macos.gnxasset (500 bytes)
+[2026-10-05 23:40:46.291][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/PostProcessShader.msl_macos.gnxasset (5447 bytes)
+[2026-10-05 23:40:46.291][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/vt/Feedback.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:46.291][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/vt/Feedback.msl_macos.gnxasset (1144 bytes)
+[2026-10-05 23:40:46.291][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/vt/Feedback.msl_macos.gnxasset (2024 bytes)
+[2026-10-05 23:40:46.406][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeTransmittance.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:46.406][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeTransmittance.msl_macos.gnxasset (353 bytes)
+[2026-10-05 23:40:46.406][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeTransmittance.msl_macos.gnxasset (6545 bytes)
+[2026-10-05 23:40:46.447][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeDirectIrradiance.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:46.447][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeDirectIrradiance.msl_macos.gnxasset (353 bytes)
+[2026-10-05 23:40:46.447][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeDirectIrradiance.msl_macos.gnxasset (2975 bytes)
+[2026-10-05 23:40:46.499][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeSingleScattering.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:46.499][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeSingleScattering.msl_macos.gnxasset (353 bytes)
+[2026-10-05 23:40:46.499][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeSingleScattering.msl_macos.gnxasset (10707 bytes)
+[2026-10-05 23:40:46.560][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeScatteringDensity.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:46.561][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeScatteringDensity.msl_macos.gnxasset (353 bytes)
+[2026-10-05 23:40:46.561][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeScatteringDensity.msl_macos.gnxasset (16161 bytes)
+[2026-10-05 23:40:46.676][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeIndirectIrradiance.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:46.676][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeIndirectIrradiance.msl_macos.gnxasset (353 bytes)
+[2026-10-05 23:40:46.676][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeIndirectIrradiance.msl_macos.gnxasset (7478 bytes)
+[2026-10-05 23:40:46.735][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeMultipleScattering.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:46.735][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeMultipleScattering.msl_macos.gnxasset (353 bytes)
+[2026-10-05 23:40:46.735][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Atmosphere/ComputeMultipleScattering.msl_macos.gnxasset (9171 bytes)
+[2026-10-05 23:40:46.823][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/AtmosphereDemo/Sky.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:46.824][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from data_asset/Shader/AtmosphereDemo/Sky.msl_macos.gnxasset (515 bytes)
+[2026-10-05 23:40:46.824][ShaderAssetLoader.cpp:L2026-10-05 23:40:47.184 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: AtmosphereParametersCB, index = 0
+2026-10-05 23:40:47.186 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: AtmosphereParametersCB, index = 0
+2026-10-05 23:40:47.186 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_texture, index = 0
+2026-10-05 23:40:47.186 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_textureSam, index = 0
+2026-10-05 23:40:47.189 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: AtmosphereParametersCB, index = 0
+2026-10-05 23:40:47.190 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: ScatteringCB, index = 1
+2026-10-05 23:40:47.190 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_texture, index = 0
+2026-10-05 23:40:47.190 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_textureSam, index = 0
+2026-10-05 23:40:47.261 atmosphere_capture[35890:5066921] MTLComputePipeline::GenerateRefectionInfo Found arg: srcDepth, index = 0
+2026-10-05 23:40:47.261 atmosphere_capture[35890:5066921] MTLComputePipeline::GenerateRefectionInfo Found arg: dstDepth, index = 1
+2026-10-05 23:40:48.063 atmosphere_capture[35890:5066921] metal shader error program_source:147:5: error: variables in the threadgroup address space cannot be declared in a fragment function
+    threadgroup TerrainPayload terrainPayload;
+    ^
+oadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from data_asset/Shader/AtmosphereDemo/Sky.msl_macos.gnxasset (48328 bytes)
+[2026-10-05 23:40:47.054][AtmosphereFrameWork.cpp:CreateScene:125][INFO]Atmosphere demo scene created
+[2026-10-05 23:40:47.194][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/HiZGeneration.msl_macos.gnxasset (1 stages, format 2)
+[2026-10-05 23:40:47.194][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 2 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/HiZGeneration.msl_macos.gnxasset (604 bytes)
+[2026-10-05 23:40:47.261][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/BasePass.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:47.261][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/BasePass.msl_macos.gnxasset (1762 bytes)
+[2026-10-05 23:40:47.261][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/BasePass.msl_macos.gnxasset (3333 bytes)
+[2026-10-05 23:40:47.428][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/vt/GBufferVTPBR.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:47.428][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/vt/GBufferVTPBR.msl_macos.gnxasset (1762 bytes)
+[2026-10-05 23:40:47.428][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/vt/GBufferVTPBR.msl_macos.gnxasset (5798 bytes)
+[2026-10-05 23:40:47.641][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Terrain.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:47.642][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Terrain.msl_macos.gnxasset (2989 bytes)
+[2026-10-05 23:40:47.642][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/Terrain.msl_macos.gnxasset (2875 bytes)
+[2026-10-05 23:40:47.807][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMS.msl_macos.gnxasset (3 stages, format 2)
+[2026-10-05 23:40:47.807][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMS.msl_macos.gnxasset (4008 bytes)
+[2026-10-05 23:40:47.807][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 3 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMS.msl_macos.gnxasset (4470 bytes)
+[2026-10-05 23:40:47.807][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 4 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/TerrainMS.msl_macos.gnxasset (15003 bytes)
+[2026-10-05 23:40:48.066][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SSAO.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:48.066][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SSAO.ms2026-10-05 23:40:48.479 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: cbPerCamera, index = 0
+2026-10-05 23:40:48.479 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: cbSSAOParams, index = 4
+2026-10-05 23:40:48.479 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferA, index = 0
+2026-10-05 23:40:48.479 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gDepth, index = 1
+2026-10-05 23:40:48.479 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texNoise, index = 2
+2026-10-05 23:40:48.479 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferASam, index = 0
+2026-10-05 23:40:48.479 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gDepthSam, index = 1
+2026-10-05 23:40:48.479 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texNoiseSam, index = 2
+2026-10-05 23:40:48.483 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: cbPerCamera, index = 0
+2026-10-05 23:40:48.483 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texSSAO, index = 0
+2026-10-05 23:40:48.483 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gDepth, index = 1
+2026-10-05 23:40:48.483 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texSSAOSam, index = 0
+2026-10-05 23:40:48.483 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gDepthSam, index = 1
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: cbPerCamera, index = 0
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: cbLighting, index = 2
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: cbShadow, index = 4
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texEnvMap, index = 0
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texEnvMapIrradiance, index = 1
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texBRDF_LUT, index = 2
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferSceneColor, index = 3
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferA, index = 4
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferB, index = 5
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferC, index = 6
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gDepth, index = 8
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gShadowMap, index = 10
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texEnvMapSam, index = 0
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texEnvMapIrradianceSam, index = 1
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texBRDF_LUTSam, index = 2
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferSceneColorSam, index = 3
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferASam, index = 4
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferBSam, index = 5
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gGBufferCSam, index = 6
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gDepthSam, index = 8
+2026-10-05 23:40:48.487 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: gShadowMapSam, index = 10
+2026-10-05 23:40:48.491 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texImage, index = 0
+2026-10-05 23:40:48.491 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texImageSam, index = 0
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: AtmosphereParametersCB, index = 0
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: ScatteringCB, index = 1
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_texture, index = 0
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_rayleigh_scattering_texture, index = 1
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_mie_scattering_texture, index = 2
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: multiple_scattering_texture, index = 3
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: irradiance_texture, index = 4
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_textureSam, index = 0
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_rayleigh_scattering_textureSam, index = 1
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_mie_scattering_textureSam, index = 2
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: multiple_scattering_textureSam, index = 3
+2026-10-05 23:40:48.511 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: irradiance_textureSam, index = 4
+2026-10-05 23:40:48.525 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: AtmosphereParametersCB, index = 0
+2026-10-05 23:40:48.525 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: ScatteringCB, index = 1
+2026-10-05 23:40:48.525 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_rayleigh_scattering_texture, index = 0
+2026-10-05 23:40:48.525 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_mie_scattering_texture, index = 1
+2026-10-05 23:40:48.526 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: multiple_scattering_texture, index = 2
+2026-10-05 23:40:48.526 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_rayleigh_scattering_textureSam, index = 0
+2026-10-05 23:40:48.526 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_mie_scattering_textureSam, index = 1
+2026-10-05 23:40:48.526 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: multiple_scattering_textureSam, index = 2
+2026-10-05 23:40:48.527 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: AtmosphereParametersCB, index = 0
+2026-10-05 23:40:48.527 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: ScatteringCB, index = 1
+2026-10-05 23:40:48.527 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_texture, index = 0
+2026-10-05 23:40:48.527 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: scattering_density_texture, index = 1
+2026-10-05 23:40:48.528 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_textureSam, index = 0
+2026-10-05 23:40:48.528 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: scattering_density_textureSam, index = 1
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: AtmosphereViewCB, index = 0
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: AtmosphereDemoCB, index = 1
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: AtmosphereParametersCB, index = 2
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_texture, index = 0
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: scattering_texture, index = 1
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_mie_scattering_texture, index = 2
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: irradiance_texture, index = 3
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: transmittance_textureSam, index = 0
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: scattering_textureSam, index = 1
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: single_mie_scattering_textureSam, index = 2
+2026-10-05 23:40:51.257 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: irradiance_textureSam, index = 3
+2026-10-05 23:41:01.628 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texImage, index = 0
+2026-10-05 23:41:01.628 atmosphere_capture[35890:5066921] MTLGraphicsShader::GenerateRefectionInfo Found arg: texImageSam, index = 0
+l_macos.gnxasset (500 bytes)
+[2026-10-05 23:40:48.066][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SSAO.msl_macos.gnxasset (4449 bytes)
+[2026-10-05 23:40:48.203][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SSAOBlur.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:48.203][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SSAOBlur.msl_macos.gnxasset (500 bytes)
+[2026-10-05 23:40:48.203][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/SSAOBlur.msl_macos.gnxasset (3109 bytes)
+[2026-10-05 23:40:48.289][ShaderAsset.cpp:LoadFromFile:325][INFO]ShaderAsset: loaded /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/DeferredLighting.msl_macos.gnxasset (2 stages, format 2)
+[2026-10-05 23:40:48.289][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 0 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/DeferredLighting.msl_macos.gnxasset (500 bytes)
+[2026-10-05 23:40:48.289][ShaderAssetLoader.cpp:LoadCompiledShaderFromAsset:73][INFO]LoadCompiledShader: loaded stage 1 from /Users/zhouxuguang/work/mycode/GNXMapEngine/GNXEngine/data_asset/Shader/DeferredLighting.msl_macos.gnxasset (13852 bytes)
+[2026-10-05 23:40:51.254][AtmosphereRenderer.cpp:Precompute:557][INFO]AtmosphereRenderer: precompute finished (orders=5)
+[2026-10-05 23:41:02.026][ScreenshotUtil.cpp:CaptureFrameToPng:224][INFO]CaptureFrameToPng: saved /Users/zhouxuguang/work/doc/预计算大气散射/atmosphere_scattering_images/demo_day.png (2560x1440)
+CAPTURE_DONE sun_zenith=1 sun_azimuth=2.9 orders=5 frames=120 saved=1

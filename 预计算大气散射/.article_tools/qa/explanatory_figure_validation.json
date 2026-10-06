@@ -1,0 +1,21 @@
+{
+  "G": {
+    "x": 0.4,
+    "u": 0.42500000000000004,
+    "hardware_index": 1.2000000000000002,
+    "round_trip_error": 5.551115123125783e-17
+  },
+  "H": {
+    "polar_midpoint_sine": 0.0980171403295606,
+    "equatorial_midpoint_sine": 0.9951847266721968,
+    "midpoint_solid_angle_sum_sr": 12.58657971440637
+  },
+  "J": {
+    "distance_preserved_error": 2.220446049250313e-16,
+    "endpoint_radius_error": 0.0,
+    "direction_length_error": 0.0,
+    "mu_dir": -0.2287588240590116,
+    "mu_fit": -0.2542837560597481,
+    "sun_dot_difference": -0.011814330258092875
+  }
+}

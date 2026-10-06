@@ -1,0 +1,98 @@
+[
+  {
+    "figure": "01_spherical_geometry",
+    "text_count": 18,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "02_direction_convention",
+    "text_count": 12,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "03_density_profiles",
+    "text_count": 22,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "04_phase_functions",
+    "text_count": 38,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "05_transmittance_chain",
+    "text_count": 25,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "06_single_scattering_path",
+    "text_count": 15,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "07_transmittance_mapping",
+    "text_count": 41,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "08_horizon_split",
+    "text_count": 39,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "09_sun_mapping",
+    "text_count": 35,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "10_valid_nu_domain",
+    "text_count": 28,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "11_texture_packing",
+    "text_count": 16,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "12_multiple_scattering_paths",
+    "text_count": 14,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "13_precompute_dependencies",
+    "text_count": 26,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "14_aerial_perspective_subtraction",
+    "text_count": 11,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "15_shadow_segments",
+    "text_count": 16,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "16_color_pipeline",
+    "text_count": 16,
+    "overlaps": [],
+    "outside_canvas": []
+  }
+]

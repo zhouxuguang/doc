@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="482.4pt" viewBox="0 0 892.8 482.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T10:31:41.414909</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 482.4 
+L 892.8 482.4 
+L 892.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 125.5872 330.4842 
+L 125.5872 155.172 
+" clip-path="url(#p0b8fa20c22)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #dce5ee; stroke-width: 1.3"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 394.0224 330.4842 
+L 394.0224 155.172 
+" clip-path="url(#p0b8fa20c22)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #dce5ee; stroke-width: 1.3"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 760.6656 330.4842 
+L 760.6656 155.172 
+" clip-path="url(#p0b8fa20c22)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #dce5ee; stroke-width: 1.3"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 125.5872 175.65792 
+L 760.6656 175.65792 
+" clip-path="url(#p0b8fa20c22)" style="fill: none; stroke: #286da8; stroke-opacity: 0.17; stroke-width: 9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 394.0224 237.9036 
+L 760.6656 237.9036 
+" clip-path="url(#p0b8fa20c22)" style="fill: none; stroke: #d68a31; stroke-opacity: 0.17; stroke-width: 9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 125.5872 302.907 
+L 394.0224 302.907 
+" clip-path="url(#p0b8fa20c22)" style="fill: none; stroke: #518772; stroke-opacity: 0.17; stroke-width: 9; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 15px; font-family: 'Heiti TC'; text-anchor: middle; fill: #20354b" x="125.5872" y="142.8438" transform="rotate(-0 125.5872 142.8438)">P</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 15px; font-family: 'Heiti TC'; text-anchor: middle; fill: #20354b" x="394.0224" y="142.8438" transform="rotate(-0 394.0224 142.8438)">Q</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 15px; font-family: 'Heiti TC'; text-anchor: middle; fill: #20354b" x="760.6656" y="142.8438" transform="rotate(-0 760.6656 142.8438)">B</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 127.588294 175.65792 
+Q 443.124723 175.65792 755.97787 175.65792 
+" style="fill: none; stroke: #286da8; stroke-width: 2.4; stroke-linecap: round"/>
+    <path d="M 750.37787 172.85792 
+L 755.97787 175.65792 
+L 750.37787 178.45792 
+" style="fill: none; stroke: #286da8; stroke-width: 2.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <!-- $\mathcal{S}_\lambda(P)$ -->
+    <g style="fill: #286da8" transform="translate(422.4264 162.07992)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: italic; font-size: 18px; font-family: 'STIXNonUnicode'; fill: #286da8"></tspan>
+      <tspan x="11.695426" y="1.871875" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #286da8">λ</tspan>
+      <tspan x="18.276186" y="-0.828125" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #286da8">(</tspan>
+      <tspan x="35.268068" y="-0.828125" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #286da8">)</tspan>
+      <tspan x="24.270143" y="-0.828125" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #286da8">P</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 396.022445 237.9036 
+Q 577.343891 237.9036 755.982056 237.9036 
+" style="fill: none; stroke: #d68a31; stroke-width: 2.4; stroke-linecap: round"/>
+    <path d="M 750.382056 235.1036 
+L 755.982056 237.9036 
+L 750.382056 240.7036 
+" style="fill: none; stroke: #d68a31; stroke-width: 2.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <!-- $T_\lambda(P,Q)\mathcal{S}_\lambda(Q)$ -->
+    <g style="fill: #d68a31" transform="translate(525.324 224.2356)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">T</tspan>
+      <tspan x="22.582652" y="-0.828125" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">P</tspan>
+      <tspan x="41.680546" y="-0.828125" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">Q</tspan>
+      <tspan x="84.940573" y="-0.828125" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">Q</tspan>
+      <tspan x="10.007935" y="1.871875" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #d68a31">λ</tspan>
+      <tspan x="72.365856" y="1.871875" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #d68a31">λ</tspan>
+      <tspan x="16.588694" y="-0.828125" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">(</tspan>
+      <tspan x="33.580576" y="-0.828125" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">,</tspan>
+      <tspan x="54.676472" y="-0.828125" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">)</tspan>
+      <tspan x="78.946615" y="-0.828125" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">(</tspan>
+      <tspan x="97.936499" y="-0.828125" style="font-size: 18px; font-family: 'STIXGeneral'; fill: #d68a31">)</tspan>
+      <tspan x="60.670429" y="-0.828125" style="font-style: italic; font-size: 18px; font-family: 'STIXNonUnicode'; fill: #d68a31"></tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_4">
+    <path d="M 127.590142 302.907 
+Q 259.808207 302.907 389.342991 302.907 
+" style="fill: none; stroke: #518772; stroke-width: 2.4; stroke-linecap: round"/>
+    <path d="M 383.742991 300.107 
+L 389.342991 302.907 
+L 383.742991 305.707 
+" style="fill: none; stroke: #518772; stroke-width: 2.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <!-- $L^{\mathrm{ins}}_{PQ,\lambda}$ -->
+    <g style="fill: #518772" transform="translate(240.2748 287.259)">
+     <text>
+      <tspan x="0" y="-0.958187" style="font-style: italic; font-size: 18px; font-family: 'STIXGeneral'; fill: #518772">L</tspan>
+      <tspan x="11.908435" y="-8.392188" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">i</tspan>
+      <tspan x="15.411212" y="-8.392188" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">n</tspan>
+      <tspan x="21.711169" y="-8.392188" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">s</tspan>
+      <tspan x="26.80363" y="4.78125" style="font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">,</tspan>
+      <tspan x="10.007935" y="4.78125" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">P</tspan>
+      <tspan x="17.706482" y="4.78125" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">Q</tspan>
+      <tspan x="32.473609" y="4.78125" style="font-style: italic; font-size: 12.6px; font-family: 'STIXGeneral'; fill: #518772">λ</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_7">
+   <path d="M 53.568 80.0784 
+L 839.232 80.0784 
+" style="fill: none; stroke: #dce5ee; stroke-width: 1.2; stroke-linecap: round"/>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 21px; font-family: 'Heiti TC'; text-anchor: start; fill: #20354b" x="53.568" y="45.0744" transform="rotate(-0 53.568 45.0744)">14  有限距离空气透视：累计积分的尾段相减</text>
+  </g>
+  <g id="text_8">
+   <!-- $\mathcal{S}(P)$ 和 $\mathcal{S}(Q)$ 使用同一个物理方向、同一个边界 B。 -->
+   <g style="fill: #657b8e" transform="translate(53.568 70.5676)">
+    <text>
+     <tspan x="0" y="-0.78125" style="font-style: italic; font-size: 12.5px; font-family: 'STIXNonUnicode'; fill: #657b8e"></tspan>
+     <tspan x="42.63768" y="-0.78125" style="font-style: italic; font-size: 12.5px; font-family: 'STIXNonUnicode'; fill: #657b8e"></tspan>
+     <tspan x="7.925034" y="-0.78125" style="font-size: 12.5px; font-family: 'STIXGeneral'; fill: #657b8e">(</tspan>
+     <tspan x="19.725082" y="-0.78125" style="font-size: 12.5px; font-family: 'STIXGeneral'; fill: #657b8e">)</tspan>
+     <tspan x="50.562714" y="-0.78125" style="font-size: 12.5px; font-family: 'STIXGeneral'; fill: #657b8e">(</tspan>
+     <tspan x="63.750275" y="-0.78125" style="font-size: 12.5px; font-family: 'STIXGeneral'; fill: #657b8e">)</tspan>
+     <tspan x="12.087555" y="-0.78125" style="font-style: italic; font-size: 12.5px; font-family: 'STIXGeneral'; fill: #657b8e">P</tspan>
+     <tspan x="54.725235" y="-0.78125" style="font-style: italic; font-size: 12.5px; font-family: 'STIXGeneral'; fill: #657b8e">Q</tspan>
+     <tspan x="23.887604" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="27.012619" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">和</tspan>
+     <tspan x="39.512665" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="67.912796" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="71.037811" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">使</tspan>
+     <tspan x="83.537857" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">用</tspan>
+     <tspan x="96.037903" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">同</tspan>
+     <tspan x="108.537949" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">一</tspan>
+     <tspan x="121.037994" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">个</tspan>
+     <tspan x="133.53804" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">物</tspan>
+     <tspan x="146.038086" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">理</tspan>
+     <tspan x="158.538132" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">方</tspan>
+     <tspan x="171.038177" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">向</tspan>
+     <tspan x="183.538223" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">、</tspan>
+     <tspan x="196.038269" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">同</tspan>
+     <tspan x="208.538315" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">一</tspan>
+     <tspan x="221.038361" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">个</tspan>
+     <tspan x="233.538406" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">边</tspan>
+     <tspan x="246.038452" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">界</tspan>
+     <tspan x="258.538498" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e"> </tspan>
+     <tspan x="261.663513" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">B</tspan>
+     <tspan x="268.838547" y="-0.78125" style="font-size: 12.5px; font-family: 'Heiti TC'; fill: #657b8e">。</tspan>
+    </text>
+   </g>
+  </g>
+  <g id="text_9">
+   <g id="patch_5">
+    <path d="M 784.232 46.8236 
+L 839.232 46.8236 
+Q 844.182 46.8236 844.182 41.8736 
+L 844.182 30.8736 
+Q 844.182 25.9236 839.232 25.9236 
+L 784.232 25.9236 
+Q 779.282 25.9236 779.282 30.8736 
+L 779.282 41.8736 
+Q 779.282 46.8236 784.232 46.8236 
+z
+" style="fill: #f3f7fb"/>
+   </g>
+   <text style="font-size: 11px; font-family: 'Heiti TC'; text-anchor: end; fill: #286da8" x="839.232" y="40.3336" transform="rotate(-0 839.232 40.3336)">运行时查询</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 11.5px; font-family: 'Heiti TC'; text-anchor: start; fill: #657b8e" x="53.568" y="458.1172" transform="rotate(-0 53.568 458.1172)">Q 位于 P 到 B 的同一有效线段内；差分结果是 [P,Q] 上产生并到达 P 的辐亮度。</text>
+  </g>
+  <g id="text_11">
+   <g id="patch_6">
+    <path d="M 322.3 437.952 
+L 570.5 437.952 
+Q 582.5 437.952 582.5 425.952 
+L 582.5 398.952 
+Q 582.5 386.952 570.5 386.952 
+L 322.3 386.952 
+Q 310.3 386.952 310.3 398.952 
+L 310.3 425.952 
+Q 310.3 437.952 322.3 437.952 
+z
+" style="fill: #f3f7fb"/>
+   </g>
+   <!-- $L^{\mathrm{ins}}_{PQ,\lambda}=\mathcal{S}_\lambda(P)-T_\lambda(P,Q)\mathcal{S}_\lambda(Q)$ -->
+   <g style="fill: #20354b" transform="translate(322.3 416.952)">
+    <text>
+     <tspan x="0" y="-0.180625" style="font-style: italic; font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">L</tspan>
+     <tspan x="92.060923" y="-0.180625" style="font-style: italic; font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">P</tspan>
+     <tspan x="132.640879" y="-0.180625" style="font-style: italic; font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">T</tspan>
+     <tspan x="157.732854" y="-0.180625" style="font-style: italic; font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">P</tspan>
+     <tspan x="178.95284" y="-0.180625" style="font-style: italic; font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">Q</tspan>
+     <tspan x="227.019789" y="-0.180625" style="font-style: italic; font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">Q</tspan>
+     <tspan x="13.23312" y="-8.440625" style="font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">i</tspan>
+     <tspan x="17.125118" y="-8.440625" style="font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">n</tspan>
+     <tspan x="24.125108" y="-8.440625" style="font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">s</tspan>
+     <tspan x="29.781976" y="6.195312" style="font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">,</tspan>
+     <tspan x="11.119995" y="6.195312" style="font-style: italic; font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">P</tspan>
+     <tspan x="19.673985" y="6.195312" style="font-style: italic; font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">Q</tspan>
+     <tspan x="36.081976" y="6.195312" style="font-style: italic; font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+     <tspan x="78.088943" y="2.819375" style="font-style: italic; font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+     <tspan x="143.760874" y="2.819375" style="font-style: italic; font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+     <tspan x="213.047809" y="2.819375" style="font-style: italic; font-size: 14px; font-family: 'STIXGeneral'; fill: #20354b">λ</tspan>
+     <tspan x="47.393968" y="-0.180625" style="font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">=</tspan>
+     <tspan x="85.400934" y="-0.180625" style="font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+     <tspan x="104.280909" y="-0.180625" style="font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+     <tspan x="114.940897" y="-0.180625" style="font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">−</tspan>
+     <tspan x="151.072866" y="-0.180625" style="font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+     <tspan x="169.95284" y="-0.180625" style="font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">,</tspan>
+     <tspan x="193.392827" y="-0.180625" style="font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+     <tspan x="220.3598" y="-0.180625" style="font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">(</tspan>
+     <tspan x="241.459776" y="-0.180625" style="font-size: 20px; font-family: 'STIXGeneral'; fill: #20354b">)</tspan>
+     <tspan x="65.09395" y="-0.180625" style="font-style: italic; font-size: 20px; font-family: 'STIXNonUnicode'; fill: #20354b"></tspan>
+     <tspan x="200.052816" y="-0.180625" style="font-style: italic; font-size: 20px; font-family: 'STIXNonUnicode'; fill: #20354b"></tspan>
+    </text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0b8fa20c22">
+   <rect x="53.568" y="115.776" width="785.664" height="236.376"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,26 @@
+[
+  {
+    "figure": "explain_G_lut_encoding_and_texel_centers",
+    "text_count": 25,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "explain_H_solid_angle_and_irradiance_weights",
+    "text_count": 38,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "explain_I_delta_texture_lifetime",
+    "text_count": 39,
+    "overlaps": [],
+    "outside_canvas": []
+  },
+  {
+    "figure": "explain_J_ellipsoid_to_spherical_proxy",
+    "text_count": 28,
+    "overlaps": [],
+    "outside_canvas": []
+  }
+]

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="446.248421pt" height="366.8pt" viewBox="0 0 446.248421 366.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T00:31:09.023585</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 366.8 
+L 446.248421 366.8 
+L 446.248421 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 205.616842 347.928421 
+C 241.21324 347.928421 275.356493 333.785822 300.526947 308.615368 
+C 325.697401 283.444914 339.84 249.301661 339.84 213.705263 
+C 339.84 178.108866 325.697401 143.965612 300.526947 118.795158 
+C 275.356493 93.624704 241.21324 79.482105 205.616842 79.482105 
+C 170.020445 79.482105 135.877191 93.624704 110.706737 118.795158 
+C 85.536283 143.965612 71.393684 178.108866 71.393684 213.705263 
+C 71.393684 249.301661 85.536283 283.444914 110.706737 308.615368 
+C 135.877191 333.785822 170.020445 347.928421 205.616842 347.928421 
+z
+" clip-path="url(#pdc7a153e7f)" style="fill: #e7f5fb; stroke: #20a4c0; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 205.616842 330.421053 
+C 236.570231 330.421053 266.260017 318.123141 288.147368 296.235789 
+C 310.03472 274.348438 322.332632 244.658652 322.332632 213.705263 
+C 322.332632 182.751874 310.03472 153.062088 288.147368 131.174737 
+C 266.260017 109.287386 236.570231 96.989474 205.616842 96.989474 
+C 174.663453 96.989474 144.973667 109.287386 123.086316 131.174737 
+C 101.198965 153.062088 88.901053 182.751874 88.901053 213.705263 
+C 88.901053 244.658652 101.198965 274.348438 123.086316 296.235789 
+C 144.973667 318.123141 174.663453 330.421053 205.616842 330.421053 
+z
+" clip-path="url(#pdc7a153e7f)" style="fill: #e0ebe2; stroke: #598b70; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 205.616842 87.652211 
+L 249.700997 105.635088 
+" clip-path="url(#pdc7a153e7f)" style="fill: none; stroke: #e89132; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <defs>
+     <path id="m5ac19b910e" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #c84c52"/>
+    </defs>
+    <g clip-path="url(#pdc7a153e7f)">
+     <use xlink:href="#m5ac19b910e" x="230.384191" y="99.647585" style="fill: #c84c52; stroke: #c84c52"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <defs>
+     <path id="me32504dd9a" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #e89132"/>
+    </defs>
+    <g clip-path="url(#pdc7a153e7f)">
+     <use xlink:href="#me32504dd9a" x="249.700997" y="105.635088" style="fill: #e89132; stroke: #e89132"/>
+    </g>
+   </g>
+   <g id="line2d_4">
+    <defs>
+     <path id="mbdc9bbc12a" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #243e53"/>
+    </defs>
+    <g clip-path="url(#pdc7a153e7f)">
+     <use xlink:href="#mbdc9bbc12a" x="205.616842" y="213.705263" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="line2d_5">
+    <g clip-path="url(#pdc7a153e7f)">
+     <use xlink:href="#mbdc9bbc12a" x="205.616842" y="87.652211" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="patch_4">
+    <path d="M 251.550572 106.38957 
+Q 280.558387 118.222482 307.288724 129.126364 
+" style="fill: none; stroke: #e89132; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 303.750772 125.091157 
+L 307.288724 129.126364 
+L 301.937788 129.535601 
+" style="fill: none; stroke: #e89132; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 205.616842 211.708756 
+Q 205.616842 150.681855 205.616842 92.114629 
+" style="fill: none; stroke: #243e53; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 203.216842 96.914629 
+L 205.616842 92.114629 
+L 208.016842 96.914629 
+" style="fill: none; stroke: #243e53; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <!-- $r$ -->
+    <g style="fill: #243e53" transform="translate(203.096842 127.989895)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243e53">r</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 207.58578 87.293012 
+Q 291.987325 71.895433 373.969131 56.939293 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 368.816338 55.439718 
+L 373.969131 56.939293 
+L 369.677796 60.161783 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle; fill: #1766a3" x="291.986526" y="56.209684" transform="rotate(-0 291.986526 56.209684)">顶边界方向</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 207.41574 88.523457 
+Q 218.001358 93.650306 226.37327 97.705007 
+" style="fill: none; stroke: #c84c52; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 223.099405 93.452736 
+L 226.37327 97.705007 
+L 221.007134 97.772736 
+" style="fill: none; stroke: #c84c52; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 168.219264 75.709295 
+Q 198.37024 87.319746 228.521216 98.930196 
+" style="fill: none; stroke: #c84c52; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #c84c52" x="121.581474" y="71.312" transform="rotate(-0 121.581474 71.312)">地面交点</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #e89132" x="322.332632" y="116.831158" transform="rotate(-0 322.332632 116.831158)">地表切线</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 287.651035 130.26785 
+Q 269.515669 118.496475 251.380304 106.725099 
+" style="fill: none; stroke: #e89132; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #e89132" x="289.652211" y="143.675789" transform="rotate(-0 289.652211 143.675789)">切点</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="219.622737" y="198.532211" transform="rotate(-0 219.622737 198.532211)">O</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="196.279579" y="61.974737" transform="rotate(-0 196.279579 61.974737)">P</text>
+   </g>
+   <g id="text_8">
+    <!-- 地表半径 $r_b$ -->
+    <g style="fill: #598b70" transform="translate(112.244211 237.048421)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-size: 12px; font-family: 'Heiti TC'; fill: #598b70">地</tspan>
+      <tspan x="12.000092" y="-0.28125" style="font-size: 12px; font-family: 'Heiti TC'; fill: #598b70">表</tspan>
+      <tspan x="24.000183" y="-0.28125" style="font-size: 12px; font-family: 'Heiti TC'; fill: #598b70">半</tspan>
+      <tspan x="36.000275" y="-0.28125" style="font-size: 12px; font-family: 'Heiti TC'; fill: #598b70">径</tspan>
+      <tspan x="48.000366" y="-0.28125" style="font-size: 12px; font-family: 'Heiti TC'; fill: #598b70"> </tspan>
+      <tspan x="51.000381" y="-0.28125" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #598b70">r</tspan>
+      <tspan x="55.933975" y="1.518744" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #598b70">b</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- 大气顶 $r_t$ -->
+    <g style="fill: #20a4c0" transform="translate(44.549053 127.335579)">
+     <text>
+      <tspan x="0" y="-0.296875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0">大</tspan>
+      <tspan x="12.000092" y="-0.296875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0">气</tspan>
+      <tspan x="24.000183" y="-0.296875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0">顶</tspan>
+      <tspan x="36.000275" y="-0.296875" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0"> </tspan>
+      <tspan x="39.00029" y="-0.296875" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #20a4c0">r</tspan>
+      <tspan x="43.933884" y="1.503119" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #20a4c0">t</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'Heiti TC'; text-anchor: start" x="42.214737" y="349.095579" transform="rotate(-0 42.214737 349.095579)">示意图放大了大气厚度；实际地球模型约为半径的 1%。</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: middle" x="223.124211" y="20.96" transform="rotate(-0 223.124211 20.96)">球形大气壳与射线边界</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdc7a153e7f">
+   <rect x="7.2" y="26.96" width="431.848421" height="332.64"/>
+  </clipPath>
+ </defs>
+</svg>

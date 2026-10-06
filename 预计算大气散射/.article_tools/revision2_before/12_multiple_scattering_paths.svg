@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="628.2pt" height="311.36pt" viewBox="0 0 628.2 311.36" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-06T00:31:13.770189</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 311.36 
+L 628.2 311.36 
+L 628.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="FillBetweenPolyCollection_1">
+    <defs>
+     <path id="mb54f4c39e9" d="M 7.2 -7.2 
+L 7.2 -48.78 
+L 621 -48.78 
+L 621 -7.2 
+L 621 -7.2 
+L 7.2 -7.2 
+z
+" style="stroke: #e0ebe2"/>
+    </defs>
+    <g clip-path="url(#pa3abbbb239)">
+     <use xlink:href="#mb54f4c39e9" x="0" y="311.36" style="fill: #e0ebe2; stroke: #e0ebe2"/>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <defs>
+     <path id="mcd9befb50b" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #243e53"/>
+    </defs>
+    <g clip-path="url(#pa3abbbb239)">
+     <use xlink:href="#mcd9befb50b" x="314.1" y="165.56" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="line2d_2">
+    <g clip-path="url(#pa3abbbb239)">
+     <use xlink:href="#mcd9befb50b" x="68.58" y="211.76" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <g clip-path="url(#pa3abbbb239)">
+     <use xlink:href="#mcd9befb50b" x="467.55" y="262.58" style="fill: #243e53; stroke: #243e53"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="321.4656" y="159.554" transform="rotate(-0 321.4656 159.554)">Q</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="75.9456" y="205.754" transform="rotate(-0 75.9456 205.754)">P</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 312.133173 165.930102 
+Q 191.339555 188.660084 72.963188 210.935207 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 78.124223 212.406165 
+L 72.963188 210.935207 
+L 77.236576 207.688954 
+" style="fill: none; stroke: #1766a3; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle; fill: #1766a3" x="191.34" y="178.664" transform="rotate(-0 191.34 178.664)">本阶出射光</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 131.749813 74.058114 
+Q 222.030351 119.360176 310.112467 163.559088 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 306.898684 159.261228 
+L 310.112467 163.559088 
+L 304.74591 163.551399 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 435.260314 74.364065 
+Q 375.48067 119.359496 317.666227 162.875743 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 322.94457 161.906672 
+L 317.666227 162.875743 
+L 320.057976 158.071626 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 557.623202 174.724852 
+Q 436.859312 170.179974 318.553356 165.727599 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 323.259702 168.306419 
+L 318.553356 165.727599 
+L 323.44022 163.509815 
+" style="fill: none; stroke: #20a4c0; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: start; fill: #243e53" x="474.9156" y="256.574" transform="rotate(-0 474.9156 256.574)">G</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 465.861806 261.512626 
+Q 390.824976 214.069985 317.867136 167.941802 
+" style="fill: none; stroke: #e89132; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 320.641671 172.535489 
+L 317.867136 167.941802 
+L 323.206806 168.478387 
+" style="fill: none; stroke: #e89132; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Heiti TC'; text-anchor: middle; fill: #e89132" x="390.825" y="204.074" transform="rotate(-0 390.825 204.074)">地面反射后入射</text>
+   </g>
+   <g id="text_6">
+    <!-- 来自全空间的 $L^{(n-1)}$ -->
+    <g style="fill: #20a4c0" transform="translate(129.96 54.68)">
+     <text>
+      <tspan x="0" y="-0.667438" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0">来</tspan>
+      <tspan x="12.000092" y="-0.667438" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0">自</tspan>
+      <tspan x="24.000183" y="-0.667438" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0">全</tspan>
+      <tspan x="36.000275" y="-0.667438" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0">空</tspan>
+      <tspan x="48.000366" y="-0.667438" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0">间</tspan>
+      <tspan x="60.000458" y="-0.667438" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0">的</tspan>
+      <tspan x="72.000549" y="-0.667438" style="font-size: 12px; font-family: 'Heiti TC'; fill: #20a4c0"> </tspan>
+      <tspan x="75.000565" y="-0.667438" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #20a4c0">L</tspan>
+      <tspan x="82.528299" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #20a4c0">(</tspan>
+      <tspan x="92.765799" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #20a4c0">−</tspan>
+      <tspan x="101.440604" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #20a4c0">1</tspan>
+      <tspan x="106.78494" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #20a4c0">)</tspan>
+      <tspan x="85.805447" y="-5.623438" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #20a4c0">n</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- $a_g E^{(n-2)}/\pi$ -->
+    <g style="fill: #e89132" transform="translate(437.25 292.61)">
+     <text>
+      <tspan x="0" y="-0.667438" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #e89132">a</tspan>
+      <tspan x="13.013672" y="-0.667438" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #e89132">E</tspan>
+      <tspan x="53.342773" y="-0.667438" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #e89132">π</tspan>
+      <tspan x="7.353516" y="1.132557" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">g</tspan>
+      <tspan x="24.715039" y="-5.623438" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">n</tspan>
+      <tspan x="21.437891" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">(</tspan>
+      <tspan x="31.675391" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">−</tspan>
+      <tspan x="40.350195" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">2</tspan>
+      <tspan x="45.694531" y="-5.623438" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #e89132">)</tspan>
+      <tspan x="49.299805" y="-0.667438" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #e89132">/</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'Heiti TC'; text-anchor: middle" x="295.686" y="248.72" transform="rotate(-0 295.686 248.72)">一次地面反射 + 一次大气散射 = 两次事件</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 16px; font-family: 'Heiti TC'; text-anchor: middle" x="314.1" y="20.96" transform="rotate(-0 314.1 20.96)">多次散射源包含天空路径与地面反射路径</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa3abbbb239">
+   <rect x="7.2" y="26.96" width="613.8" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>
