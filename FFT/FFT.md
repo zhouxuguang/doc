@@ -14,44 +14,44 @@ FFT是一种高效实现DFT的算法，称为快速傅立叶变换（Fast Fourie
 ### 3. FFT的推导过程
 我们首先来看FFT怎么将数据进行划分，也就是分治的思想。一般的，将一个长度为N的序列，分成两个长度为N/2的子序列。然后将其中一个子序列翻转，然后进行相乘，最后再进行合并。这个过程就是蝶形运算的过程。
 
-![图1 按n的奇偶将序列分为两个N/2点子序列](img/奇偶划分.png)
+![图1 按n的奇偶将序列分为两个N/2点子序列](https://raw.githubusercontent.com/zhouxuguang/doc/e9e31de4cd61c7c429a38fa7cdb8bf984e5fa616/FFT/img/%E5%A5%87%E5%81%B6%E5%88%92%E5%88%86.png)
 
 <p align="center">图1  按n的奇偶将序列分为两个N/2点子序列</p>
 
 根据上图中的定义，序列x(n)的N点DFT可以表示为如下：
 
-![图2 序列前一半的N/2点DFT推导](img/前一半DFT推导.jpg)
+![图2 序列前一半的N/2点DFT推导](https://raw.githubusercontent.com/zhouxuguang/doc/e9e31de4cd61c7c429a38fa7cdb8bf984e5fa616/FFT/img/%E5%89%8D%E4%B8%80%E5%8D%8ADFT%E6%8E%A8%E5%AF%BC.jpg)
 
 <p align="center">图2  序列前一半的N/2点DFT推导</p>
 
 那么序列x(n)后一半的DFT可得：
 
-![图3 序列后一半的N/2点DFT推导](img/后一半DFT推导.jpg)
+![图3 序列后一半的N/2点DFT推导](https://raw.githubusercontent.com/zhouxuguang/doc/e9e31de4cd61c7c429a38fa7cdb8bf984e5fa616/FFT/img/%E5%90%8E%E4%B8%80%E5%8D%8ADFT%E6%8E%A8%E5%AF%BC.jpg)
 
 <p align="center">图3  序列后一半的N/2点DFT推导</p>
 
 结合前面手写稿中的推导，可以得到：
 
-![图4 折半后的DFT与蝶形运算表达式](img/折半的DFT.png)
+![图4 折半后的DFT与蝶形运算表达式](https://raw.githubusercontent.com/zhouxuguang/doc/e9e31de4cd61c7c429a38fa7cdb8bf984e5fa616/FFT/img/%E6%8A%98%E5%8D%8A%E7%9A%84DFT.png)
 
 <p align="center">图4  折半后的DFT与蝶形运算表达式</p>
 
 下面引入蝶形符号来表示这个过程，因为蝶形运算的外观像一只蝴蝶，所以又称蝶形图。蝶形运算符号的一般形式如下图所示，其中a、b为输入，c为旋转因子，两路输出分别为a+bc和a−bc。
 
-![图5 蝶形运算符号](img/蝶形运算符号.png)
+![图5 蝶形运算符号](https://raw.githubusercontent.com/zhouxuguang/doc/e9e31de4cd61c7c429a38fa7cdb8bf984e5fa616/FFT/img/%E8%9D%B6%E5%BD%A2%E8%BF%90%E7%AE%97%E7%AC%A6%E5%8F%B7.png)
 
 <p align="center">图5  蝶形运算符号</p>
 
 图4的蝶形运算表示为如下图所示：
 
-![图6 由两个N/2点DFT合成N点DFT的蝶形图](img/DFT分解蝶形图.png)
+![图6 由两个N/2点DFT合成N点DFT的蝶形图](https://raw.githubusercontent.com/zhouxuguang/doc/e9e31de4cd61c7c429a38fa7cdb8bf984e5fa616/FFT/img/DFT%E5%88%86%E8%A7%A3%E8%9D%B6%E5%BD%A2%E5%9B%BE.png)
 
 <p align="center">图6  由两个N/2点DFT合成N点DFT的蝶形图</p>
 
 ### 4. 蝶形图
 下面以8点DFT为例，画出蝶形图：
 
-![图7 8点DFT的一次分解](img/8点DFT的一次分解.jpg)
+![图7 8点DFT的一次分解](https://raw.githubusercontent.com/zhouxuguang/doc/e9e31de4cd61c7c429a38fa7cdb8bf984e5fa616/FFT/img/8%E7%82%B9DFT%E7%9A%84%E4%B8%80%E6%AC%A1%E5%88%86%E8%A7%A3.jpg)
 
 <p align="center">图7  8点DFT的一次分解</p>
 
@@ -59,7 +59,7 @@ FFT是一种高效实现DFT的算法，称为快速傅立叶变换（Fast Fourie
 
 由于每个N/2点DFT还可以继续按同样的方式一分为二，反复分解直到只剩2点DFT，就得到了完整的FFT流图。8点FFT共需log₂8=3级分解，下图给出了完整的蝶形流图：
 
-![图8 8点FFT的完整蝶形流图](img/8点FFT蝶形流图.jpg)
+![图8 8点FFT的完整蝶形流图](https://raw.githubusercontent.com/zhouxuguang/doc/e9e31de4cd61c7c429a38fa7cdb8bf984e5fa616/FFT/img/8%E7%82%B9FFT%E8%9D%B6%E5%BD%A2%E6%B5%81%E5%9B%BE.jpg)
 
 <p align="center">图8  8点FFT的完整蝶形流图</p>
 
@@ -69,7 +69,7 @@ FFT是一种高效实现DFT的算法，称为快速傅立叶变换（Fast Fourie
 
 从完整的8点FFT的蝶形图还可以看出一个规律：每一级蝶形运算的旋转因子W_N^k都是固定的，即W_8^0=1, W_8^1=e^(−2πi/8), W_8^2=e^(−4πi/8)=W_8^1², W_8^3=e^(−6πi/8)=W_8^1³。因此，在迭代实现时，可以预先计算出所有旋转因子，并存储在一个表中，在蝶形运算时直接查表即可。另外旋转因子的指数也是由规律，可以计算出来，这样在编程时不至于弄错。指数计算如下：
 
-![图9 第L级旋转因子的一般规律](img/第L级旋转因子.png)
+![图9 第L级旋转因子的一般规律](https://raw.githubusercontent.com/zhouxuguang/doc/e9e31de4cd61c7c429a38fa7cdb8bf984e5fa616/FFT/img/%E7%AC%ACL%E7%BA%A7%E6%97%8B%E8%BD%AC%E5%9B%A0%E5%AD%90.png)
 
 <p align="center">图9  第L级旋转因子的一般规律</p>
 
