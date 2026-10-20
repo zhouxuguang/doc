@@ -252,10 +252,16 @@ std::vector<cd> FFT::inverse(const std::vector<cd>& X) const
 }
 ```
 
+以上代码的完整工程已托管在 GitHub 仓库 NumericalAnalysis 中，可直接克隆后编译运行：
+
+- 仓库地址：<https://github.com/zhouxuguang/NumericalAnalysis>
+- 对照实现 [DFT.cpp](https://github.com/zhouxuguang/NumericalAnalysis/blob/main/DFT.cpp)：不做分解、直接按定义计算 X(k)=Σx(n)W_N^(kn)（模 N 处理旋转因子的周期性），复杂度为 O(N²)，用于与 FFT 的结果相互验证；文件中的TestDFT()对一个8点实序列做正变换后再反变换，可直观看到频谱与还原结果。
+
 ## 参考文献
 
 1. 快速傅里叶变换（FFT）课程讲义[EB/OL]. 西安电子科技大学. <https://web.xidian.edu.cn/kywang/files/20171213_190241.pdf>
 2. OI Wiki. Fast Fourier Transform[EB/OL]. <https://en.oi-wiki.org/math/poly/fft/>
 3. 快速傅里叶变换（FFT）视频讲解[EB/OL]. 哔哩哔哩. <https://www.bilibili.com/video/BV1ke2aBGErz>
+4. zhouxuguang. NumericalAnalysis[CP/OL]. GitHub. <https://github.com/zhouxuguang/NumericalAnalysis>
 
-> 说明：第 1 篇为本文第 3 节推导过程的主要参考，第 2 篇侧重迭代实现与码位倒置，第 3 篇为配套视频讲解。
+> 说明：第 1 篇为本文第 3 节推导过程的主要参考，第 2 篇侧重迭代实现与码位倒置，第 3 篇为配套视频讲解，第 4 篇为本文对应的代码仓库。
